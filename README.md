@@ -2,8 +2,8 @@
 
   👋 Hi, I’m @savindu-pasintha...
 - 👀 I’m interested in Full Stack Mobile applications DeskTOP applications && Web applications Development.
--                 .I Love to coding using problem solving.
--    -  JAVA - C# - DART - JAVASCRIPT  -  PHP  -  C++   - 
+-                 .I Love to coding using problem solving JAVA - C# - DART - JAVASCRIPT  -  PHP  -  C++ >
+-       - 
 -   MOBILE DEVELOPMENT TECHNOLOGIES
         - FLUTTER  - XAMARIN -  REACT NATIVE
     DESKTOP APPLICATION DEVELOPMENT TECHNOLOGIES
