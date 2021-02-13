@@ -1,6 +1,6 @@
 # Hello, Hi, I’m @savindu-pasintha.. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-  👋 Hi, I’m @savindu-pasintha...
+  👋 Hi, I’m @savindu-pasintha...<a href="https://www.linkedin.com/in/savindu-pasintha-6287a31a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sacindupasintha" height="30" width="40" /></a> 
   👀 I’m interested to Full Stack 🌱Mobile applications 🌱DeskTOP applications && 🌱Web applications Development.
 - .I Love  problem solving..
 -              💞️ JAVA  💞️ C#  💞️ DART  💞️ JAVASCRIPT  💞️  PHP   💞️ C++ .
