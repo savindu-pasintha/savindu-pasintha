@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning React.. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me   💞️Email     -savindupasingtha@gmail.com  <br/> 
--                        💞️Linkdin   -Profile- [a link]<a href="https://www.linkedin.com/in/savindu-pasintha-6287a31a4/">savindu-pasintha</a>  <br/> 
+-                        💞️Linkdin   -Profile- [a link](https://www.linkedin.com/in/savindu-pasintha-6287a31a4/)  <br/> 
 -                        💞️Portfolio -  <a href="http://savindupasintha.ga/index.html">savindu-pasintha</a> <br/>
 -                        💞️MOBILE  +94768755787
 - ✨ special ✨
