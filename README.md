@@ -1,4 +1,4 @@
-# Hello, Hi, I’m @savindu-pasintha.. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+#<img src="https://media-exp1.licdn.com/dms/image/C5103AQHijyIjSQcaSg/profile-displayphoto-shrink_800_800/0/1583858273301?e=1618444800&amp;v=beta&amp;t=ySuG8NcwheGuiibWPqOLU5AC1u9_IleWGKJv5hr1hho" loading="lazy" alt="profile image" id="ember1623" class="lazy-image imgedit-profile-photo-frame-viewer__target-image ember-view"> Hello, Hi, I’m @savindu-pasintha.. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
   👋 Hi, I’m @savindu-pasintha...
   👀 I’m interested to Full Stack 🌱Mobile applications 🌱DeskTOP applications && 🌱Web applications Development.
