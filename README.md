@@ -1,7 +1,7 @@
 # Hello, Hi, I’m @savindu-pasintha.. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
   👋 Hi, I’m @savindu-pasintha...<a href="https://www.linkedin.com/in/savindu-pasintha-6287a31a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sacindupasintha" height="30" width="40" /></a> 
-  <p>https://stackexchange.com/users/21067205/savindu-pasintha?tab=accounts</p>
+
   👀 I’m interested to Full Stack 🌱Mobile applications 🌱DeskTOP applications && 🌱Web applications Development.
 - .I Love  problem solving..
 -              💞️ JAVA  💞️ C#  💞️ DART  💞️ JAVASCRIPT  💞️  PHP   💞️ C++ .
@@ -15,6 +15,7 @@
 -           ✨ MSSQL  -  MYSQL - FIREBASE - MONGODB
 - 🌱 I’m currently learning React.. 
 - 💞️ I’m looking to collaborate on ...
+-   <p>https://stackexchange.com/users/21067205/savindu-pasintha?tab=accounts</p>
 -<h3 align="left"> 📫 HOW TO RICH ME :</h3>   💞️Email     savindupasingtha@gmail.com  <br/> 
                        💞️Linkdin <a href="https://www.linkedin.com/in/savindu-pasintha-6287a31a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sacindupasintha" height="30" width="40" /></a>   💞️Portfolio <a href="http://savindupasintha.ga/index.html" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="wesaaaaaaaaaaaaaaaa" height="30" width="40" /></a>  💞️MOBILE  +94768755787 <br/>
 - ✨ special ✨
