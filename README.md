@@ -15,9 +15,9 @@
 -           ✨ MSSQL  -  MYSQL - FIREBASE - MONGODB
 - 🌱 I’m currently learning React.. 
 - 💞️ I’m looking to collaborate on ...
-- <p>https://stackexchange.com/users/21067205/savindu-pasintha?tab=accounts</p>
+-
 -<h3 align="left"> 📫 HOW TO RICH ME :</h3>   💞️Email     savindupasingtha@gmail.com  <br/> 
-                       💞️Linkdin <a href="https://www.linkedin.com/in/savindu-pasintha-6287a31a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sacindupasintha" height="30" width="40" /></a>   💞️Portfolio <a href="http://savindupasintha.ga/index.html" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="wesaaaaaaaaaaaaaaaa" height="30" width="40" /></a>  💞️MOBILE  +94768755787 <br/>
+                       💞️Linkdin <a href="https://www.linkedin.com/in/savindu-pasintha-6287a31a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sacindupasintha" height="30" width="40" /></a>   💞️Portfolio <a href="http://savindupasintha.ga/index.html" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="wesaaaaaaaaaaaaaaaa" height="30" width="40" /></a>   <p>https://stackexchange.com/users/21067205/savindu-pasintha?tab=accounts</p>💞️MOBILE  +94768755787 <br/>
 - ✨ special ✨
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savindupasintha&label=Profile%20views&color=0e75b6&style=flat" alt="savindupasintha" /> </p>
 
