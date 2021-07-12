@@ -44,16 +44,18 @@
 <p> UPLOAD FILES GIT REPO </p>
 <p> --</p>
 <p> 1 - create git hub repo </p>
-<p> 2 -  command run </p>
-<p> 3 -  cd go_to_your_project_folder/PATH_FOLDER </p>
+<p>  -  command run </p>
+<p> 2 -  cd go_to_your_project_folder/PATH_FOLDER </p>
 <p> 3 -          git init  </p>
-<p> 4 -          git remote add origin YOUR_REPOSITORY_URL  </p>
+<p> 4 -          git remote add originhttps://github.com/YOUR-USERNAME/YOUR-REPOSITORY_URL  </p>
 <p> 5 -          git add . OR git add file_name </p>
 <p> 6 -          git commit -m "YOUR_COMMENT" </p>
 <p> 6 -          git push -u origin master </p>
 <p> --</p>
 <h> HOW TO CLONE GIT REPO TO YOUR COMPUTER </h>
 <p> --</p>
-<p> git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY </p>
+<p> - command run </p>
+<p> 1 -  cd go_to_your_project_folder/PATH_FOLDER </p>
+<p> 2 - git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY_URL </p>
 
 
