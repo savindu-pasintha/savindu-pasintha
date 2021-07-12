@@ -40,7 +40,9 @@
 
 <br>
 <h> How TO USE GIT HUB</h>
+<p> --</p>
 <p> UPLOAD FILES GIT REPO </p>
+<p> --</p>
 <p> 1 - create git hub repo </p>
 <p> 2 -  command run </p>
 <p> 3 -  cd go_to_your_project_folder/PATH_FOLDER </p>
@@ -49,5 +51,9 @@
 <p> 5 -          git add . OR git add file_name </p>
 <p> 6 -          git commit -m "YOUR_COMMENT" </p>
 <p> 6 -          git push -u origin master </p>
+<p> --</p>
+<h> HOW TO CLONE GIT REPO TO YOUR COMPUTER </h>
+<p> --</p>
+<p> git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY </p>
 
 
