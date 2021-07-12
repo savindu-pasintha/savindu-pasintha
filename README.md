@@ -42,7 +42,8 @@
 <h> How TO USE GIT HUB</h>
 <p> UPLOAD FILES GIT REPO </p>
 <p> 1 - create git hub repo </p>
-<p> 2 -  command run cd - go to your project folder </p>
+<p> 2 -  command run </p>
+<p> 3 -  cd go_to_your_project_folder/PATH_FOLDER </p>
 <p> 3 -          git init  </p>
 <p> 4 -          git remote add origin YOUR_REPOSITORY_URL  </p>
 <p> 5 -          git add . OR git add file_name </p>
