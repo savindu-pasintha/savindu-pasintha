@@ -47,7 +47,7 @@
 <p>  -  command run </p>
 <p> 2 -  cd go_to_your_project_folder/PATH_FOLDER </p>
 <p> 3 -          git init  </p>
-<p> 4 -          git remote add originhttps://github.com/YOUR-USERNAME/YOUR-REPOSITORY_URL  </p>
+<p> 4 -          git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY_URL  </p>
 <p> 5 -          git add . OR git add file_name </p>
 <p> 6 -          git commit -m "YOUR_COMMENT" </p>
 <p> 6 -          git push -u origin master </p>
