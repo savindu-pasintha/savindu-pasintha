@@ -51,6 +51,8 @@
 <p> 5 -          git add . & git add file_name </p>
 <p> 6 -          git commit -m "YOUR_COMMENT" </p>
 <p> 6 -          git push -u origin master & git push origin main </p>
+<p> 7 -  errors fix   https://www.cloudbees.com/blog/remote-origin-already-exists-error
+         #git remote  & git remote -v  & git remote remove origin & git remote add origin URL
 <p> --</p>
 <h> HOW TO CLONE GIT REPO TO YOUR COMPUTER </h>
 <p> --</p>
