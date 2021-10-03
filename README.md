@@ -60,4 +60,14 @@
 <p> 1 -  cd go_to_your_project_folder/PATH_FOLDER </p>
 <p> 2 - git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY_URL </p>
 
+<p> 
+#git Bucket auth windows </br>
 
+git config --global user.name "bozdoz" <br/> git config --global user.email email@email.com <br>
+
+git clone repo url<br> git add --all<br> git commit -m '<commit_message>'<br> git status<br> git push <br>
+
+#remote origin<br> git init<br> git remote add origin <the URL for your Bitbucket repository> 
+  <br> git add --all<br> git commit -m '<commit_message>'<br> git status<br> git push <br> 
+  git push -u origin master<br>
+--</p>
