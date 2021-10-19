@@ -1,7 +1,5 @@
 # Hello, Hi, I’m @savindu-pasintha.. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 #https://savindupasingtha.medium.com
-![Capture](https://user-images.githubusercontent.com/64083148/137852549-0858348c-7f65-4a98-b8e1-f3be37744fc6.PNG)
-
   👋 Hi, I’m @savindu-pasintha...<a href="https://www.linkedin.com/in/savindu-pasintha-6287a31a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sacindupasintha" height="30" width="40" /></a> 
 
   👀 I’m interested to Full Stack 🌱Mobile applications 🌱DeskTOP applications && 🌱Web applications Development.
@@ -71,3 +69,6 @@ git clone repo url<br> git add --all<br> git commit -m '<commit_message>'<br> gi
   <br> git add --all<br> git commit -m '<commit_message>'<br> git status<br> git push <br> 
   git push -u origin master<br>
 --</p>
+  ![Capture](https://user-images.githubusercontent.com/64083148/137852549-0858348c-7f65-4a98-b8e1-f3be37744fc6.PNG)
+
+
