@@ -3,15 +3,15 @@
   👋 Hi, I’m @savindu-pasintha...<a href="https://www.linkedin.com/in/savindu-pasintha-6287a31a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sacindupasintha" height="30" width="40" /></a> 
 
   👀 I’m interested to Full Stack 🌱Mobile applications 🌱DeskTOP applications && 🌱Web applications Development.
-- .I Love  problem solving..
--              💞️ JAVA  💞️ C#  💞️ DART  💞️ JAVASCRIPT  💞️ TYPESCRIPT  💞️  PHP   💞️ C++ .
+- I Love  problem solving..
+-              💞️ JAVA  💞️ C#  💞️ DART  💞️ JAVASCRIPT  💞️ TYPESCRIPT  💞️  PHP   💞️ C++  💞️ KOTLIN
 -   🌱  MOBILE DEVELOPMENT TECHNOLOGIES.
 -          ✨ FLUTTER  - XAMARIN -  REACT_NATIVE - JAVA
 -   🌱  DESKTOP APPLICATION DEVELOPMENT TECHNOLOGIES.
--           ✨ C#.NET  -  JAVA WINDOWS. 
+-           ✨ C#.NET  -  JAVA WINDOWS
 -   🌱  WEB DEVELOPMENT TECHNOLOGIES.
 -          ✨ REACT_JS - Node_js - ANGULAR - JQUERY - ASP.NET_MVC - AJAX - Express - VUEJS - Laravel - Boostrap -HTML - CSS - WORDPRESS - WEB_HOSTING.
--  🌱  DATABASE.
+-   🌱  DATABASE.
 -           ✨ MSSQL  -  MYSQL - FIREBASE - MONGODB
 - 🌱 I’m currently learning React.. 
 - 💞️ I’m looking to collaborate on ...
