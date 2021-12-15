@@ -44,6 +44,8 @@
 <p> 1 - create git hub repo </p>
 <p>  -  command run </p>
 <p> 2 -  cd go_to_your_project_folder/PATH_FOLDER </p>
+git config --global user.name "bozdoz"
+git config --global user.email email@email.com
 <p> 3 -          git init  </p>
 <p> 4 -          git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY_URL  </p>
 <p> 5 -          git add . & git add file_name </p>
