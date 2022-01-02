@@ -73,4 +73,7 @@ git clone repo url<br> git add --all<br> git commit -m '<commit_message>'<br> gi
 --</p>
   ![Capture](https://user-images.githubusercontent.com/64083148/137852549-0858348c-7f65-4a98-b8e1-f3be37744fc6.PNG)
 
+  <div>
+ <h1 style="color:blue;text-align:center;">This is a heading</h1>
+</div>
 
