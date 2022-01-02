@@ -75,5 +75,6 @@ git clone repo url<br> git add --all<br> git commit -m '<commit_message>'<br> gi
 
 <div>
     <h1 align="center" color="gold">MY ALL PROJECT OVERVIEWS</h1>
+    <span style="color:blue">some *blue* text</span>.
 </div>
 
