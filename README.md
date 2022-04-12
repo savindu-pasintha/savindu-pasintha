@@ -1,6 +1,8 @@
 <h1 align="center">Hi, 👋 I'm Savindu Pasintha 👀</h1>
 <h3 align="center">💞️ A Passionate Freelance Software Engineer</h3>
 
+<a href="https://www.linkedin.com/in/savindu-pasintha-6287a31a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sacindupasintha" height="30" width="40" /></a> 
+
 ![Savindu Pasintha's GitHub stats](https://github-readme-stats.vercel.app/api?username=savindu-pasintha&show_icons=true&theme=radical)
 
 #
