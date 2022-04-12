@@ -38,25 +38,26 @@
 -          ✨ FLUTTER  ✨ XAMARIN ✨  REACT NATIVE ✨ JAVA/Kotile/Swift
 -          
 -   🌱  DESKTOP APPLICATION DEVELOPMENT TECHNOLOGIES.
--          ✨ C#.NET  ✨  JAVA WINDOWS
+-          ✨ C#.NET  ✨  JAVAFX WINDOWS
 -          
 -   🌱  WEB DEVELOPMENT TECHNOLOGIES.
--          ✨ SPRING BOOT ✨ REACT_JS ✨ Node_js ✨ ANGULAR ✨ JQUERY ✨ ASP.NET_MVC ✨ AJAX ✨ Express ✨ VUEJS ✨ Laravel ✨ Boostrap ✨ HTML ✨ CSS ✨ WORDPRESS ✨ WEB_HOSTING
+-          ✨ SPRING BOOT ✨ REACT_JS ✨ Node_js ✨ ANGULAR ✨ JQUERY ✨ ASP.NET_MVC ✨ AJAX ✨ Express ✨ VUEJS ✨ Laravel ✨ Boostrap ✨ HTML ✨ CSS ✨ WORDPRESS ✨ WEB_HOSTING AND MORE ...
 -          
 -   🌱  DATABASE.
--           ✨ MSSQL  ✨  MYSQL ✨ FIREBASE ✨ MONGODB ✨ Elastic Search ✨ GraphQL ✨ SQLite ✨ SQL
+-           ✨ MSSQL  ✨  MYSQL ✨ FIREBASE ✨ MONGODB ✨ Elastic Search ✨ GraphQL ✨ SQLite ✨ SQL AND MORE ...
 -           
 -   🌱  Clould Computing  & Microservices 
--           ✨ AMESON WEB SERVER(AWS)   ✨ KUBERNATES  ✨ DOCKER
+-           ✨ AMESON WEB SERVER(AWS)   ✨ KUBERNATES  ✨ DOCKER ✨ LOAD BALANCING WITH NGINX
 -           ✨ ELK TECHNOLOGY (ELASTIC SEARCH & LOG DASH & KIBANA UI) ✨ KENDO UI
--           ✨ REDIS  ✨ KAFKA
+-           ✨ REDIS  ✨ KAFKA AND MORE ....
 -   
 -   🌱  Black Chain & Crypto Currency & NFT (NUN FUNGIBALE TOKEN)
--        ✨ REDIS
 -        
 -   🌱  Machine Learning With Python
 -   
--   🌱 TESTING  And Maintanance
+-   🌱  TESTING , DEPLOYMENT And Maintanance
+-   
+-   👋 SDLC 👋 AGAILE 👋 SCRUME And More .....
 
 <h3 align="center">Some Of My Projects</h3>
 
