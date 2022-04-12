@@ -1,4 +1,4 @@
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savindu-pasintha)](https://github.com/anuraghazra/github-readme-stats)
 ![Savindu Pasintha's GitHub stats](https://github-readme-stats.vercel.app/api?username=savindu-pasintha&show_icons=true&theme=radical)
 <img src="https://user-images.githubusercontent.com/64083148/162930732-4060b2b5-1fba-4fac-873f-04a741045d19.png" width="100%" height="100%" />
