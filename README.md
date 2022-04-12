@@ -1,5 +1,5 @@
 
-
+[![Savindu Pasintha's github activity graph](https://activity-graph.herokuapp.com/graph?username=savindu-pasintha&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Savindu Pasintha's GitHub stats](https://github-readme-stats.vercel.app/api?username=savindu-pasintha&show_icons=true&theme=radical)
 
 #
