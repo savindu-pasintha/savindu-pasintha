@@ -1,10 +1,11 @@
 <h1 align="center">Hi, 👋 I'm Savindu Pasintha 👀</h1>
 
-<a href="https://www.linkedin.com/in/savindu-pasintha-6287a31a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sacindupasintha" height="30" width="40" /></a> 
 
 <h3 align="center">💞️ A Passionate Freelance Software Engineer</h3>
 
-<a href="https://www.linkedin.com/in/savindu-pasintha-6287a31a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sacindupasintha" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sacindupasintha" height="30" width="40" /></a> 
+
+<h4 align="left"> 📫  💞️Email :  savindupasingtha@gmail.com </h4>       
 
 <p align="center"> ✨ I am professional Full Stack Software Developer ( Web / IOS & Android Mobile App | Ecommerce | Mobile Application Reverse Engineering ) Application development with multiple companies with multiple Technologies in these days.💞️</p>
 
