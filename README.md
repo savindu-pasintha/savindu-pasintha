@@ -1,4 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/['savindu-pasintha'])
 
 ![Savindu Pasintha's GitHub stats](https://github-readme-stats.vercel.app/api?username=savindu-pasintha&show_icons=true&theme=radical)
 
@@ -38,6 +37,8 @@
 [![](https://activity-graph.herokuapp.com/graph?username=savindu-pasintha&theme=dracula)](https://github.com/savindu-pasintha)
 <br/>
 <br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=savindu-pasintha&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
