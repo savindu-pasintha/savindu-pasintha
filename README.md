@@ -3,11 +3,11 @@
 
 <a href="https://www.linkedin.com/in/savindu-pasintha-6287a31a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sacindupasintha" height="30" width="40" /></a> 
 
-<p align="center"> ✨ I am professional Full Stack Software Developer ( Web / IOS & Android Mobile App | Ecommerce | Mobile Application Reverse Engineering ) Application development with multiple companies with multiple Technologies in these days.</p>
+<p align="center"> ✨ I am professional Full Stack Software Developer ( Web / IOS & Android Mobile App | Ecommerce | Mobile Application Reverse Engineering ) Application development with multiple companies with multiple Technologies in these days.💞️</p>
 
-<p align="center">✨ In My More than 3 years Freelance Carrier Experience through, I Got Full Stack Mobile application development knowledge for android and IOS platform, Fully Functional E-Commerce/WordPress Web Application Development , Full Stack Desktop Application Development , API Development , WEB Hosting , SEO Web and Mobile applications, Real Time time Communication for develop USSD & IVR (Inter Voice Response) Development Knowledge. ------------------------------------- I love to think out of the box and find and implement brand new ideas and brand new solutions in IT industry, And also hang with a strong fun & challenging team and grab more and more experience ,and learn new necessary skills for my career. I'm motivated to do my best for the sake of helping myself and the company advancement in the IT industry.</p>
+<p align="center">✨ In My More than 3 years Freelance Carrier Experience through, I Got Full Stack Mobile application development knowledge for android and IOS platform, Fully Functional E-Commerce/WordPress Web Application Development , Full Stack Desktop Application Development , API Development , WEB Hosting , SEO Web and Mobile applications, Real Time time Communication for develop USSD & IVR (Inter Voice Response) Development Knowledge.💞️</p>
 
-<p align="center">✨ I love to think out of the box and find and implement brand new ideas and brand new solutions in IT industry, And also hang with a strong fun & challenging team and grab more and more experience ,and learn new necessary skills for my career. I'm motivated to do my best for the sake of helping myself and the company advancement in the IT industry.</p>
+<p align="center">✨ I love to think out of the box and find and implement brand new ideas and brand new solutions in IT industry, And also hang with a strong fun & challenging team and grab more and more experience ,and learn new necessary skills for my career. I'm motivated to do my best for the sake of helping myself and the company advancement in the IT industry.💞️</p>
 
 ![Savindu Pasintha's GitHub stats](https://github-readme-stats.vercel.app/api?username=savindu-pasintha&show_icons=true&theme=radical)
 
