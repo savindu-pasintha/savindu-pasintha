@@ -5,7 +5,8 @@
 
 <a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sacindupasintha" height="30" width="40" /></a> 
 
-<h4 align="left"> 📫  💞️Email :  savindupasingtha@gmail.com </h4>       
+<h4 align="left"> Email :  savindupasingtha@gmail.com </h4>       
+<h4 align="left"> Contact :  +94 76 875 5787 </h4>       
 
 <p align="center"> ✨ I am professional Full Stack Software Developer ( Web / IOS & Android Mobile App | Ecommerce | Mobile Application Reverse Engineering ) Application development with multiple companies with multiple Technologies in these days.💞️</p>
 
