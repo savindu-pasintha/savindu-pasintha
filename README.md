@@ -34,7 +34,7 @@
 <h3 align="center"> Savindu Pasintha's github activity graph </h3>
 <br/>
 
-[![](https://activity-graph.herokuapp.com/graph?username=savindu-pasintha&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=savindu-pasintha&theme=dracula)](https://github.com/savindu-pasintha)
 <br/>
 <br/>
 
