@@ -1,7 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=savindu-pasintha&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savindu-pasintha&langs_count=8)](https://github.com/savindu-pasintha/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savindu-pasintha&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savindu-pasintha)](https://github.com/anuraghazra/github-readme-stats)
 ![Savindu Pasintha's GitHub stats](https://github-readme-stats.vercel.app/api?username=savindu-pasintha&show_icons=true&theme=radical)
 <img src="https://user-images.githubusercontent.com/64083148/162930732-4060b2b5-1fba-4fac-873f-04a741045d19.png" width="100%" height="100%" />
 <img src="https://user-images.githubusercontent.com/64083148/162930830-6073f764-de3e-42c5-8b9a-1bdc08f55ada.png" width="100%" height="100%" />
