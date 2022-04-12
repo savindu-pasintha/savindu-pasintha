@@ -46,7 +46,7 @@
 -   
 -   🌱  Machine Learning
 -   
--   🌱  Black Chain & Crypto Currency 
+-   🌱  Black Chain & Crypto Currency & NFT
 
 <h3 align="center">Some Of My Projects</h3>
 
