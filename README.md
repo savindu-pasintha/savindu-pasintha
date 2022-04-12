@@ -19,11 +19,11 @@
 <img src="https://user-images.githubusercontent.com/64083148/162931607-19762b9a-b8ef-4d3d-926a-f21e81a7d1fd.png" width="100%" height="100%" />
 <img src="https://user-images.githubusercontent.com/64083148/162931705-4584cd93-efb0-4f34-8c4b-d3d0240d5ace.png" width="100%" height="100%" />
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savindu-pasintha&langs_count=8)](https://github.com/savindu-pasintha/github-readme-stats)
-<div align="center">
 ![Savindu Pasintha's GitHub stats](https://github-readme-stats.vercel.app/api?username=savindu-pasintha&show_icons=true&theme=radical)
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savindu-pasintha&langs_count=18)](https://github.com/savindu-pasintha/github-readme-stats)
+
+
 
 
 
