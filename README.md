@@ -39,9 +39,6 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savindu-pasintha&langs_count=18)](https://github.com/savindu-pasintha/github-readme-stats)
-
-
 
 
 
