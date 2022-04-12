@@ -1,14 +1,23 @@
 <h1 align="center">Hi, 👋 I'm Savindu Pasintha 👀</h1>
 <h3 align="center">💞️ A Passionate Freelance Software Engineer</h3> 
-<p align="center">    
+<p align="center">   
+ 🌱
  <a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"     alt="sacindupasintha" height="30" width="40" /></a> 
+ 🌱
  <a href="https://savindupasingtha.medium.com">Medium</a>
- <a href="https://www.upwork.com/freelancers/~01a9342a0e7178f409?viewMode=1">Upwork </a>  
- <a href="https://stackoverflow.com/users/15484152/savindu-pasintha">Stack Overflow</a>       
- <a href="https://play.google.com/store/apps/dev?id=8686130184507586627">Google Play</a>  
- <a href="https://matching.turing.com/developer-resume-preview/fb1d46bcae75689d55b41077fc0068b06de527a32698">Turing Portfolio</a>  
- <a href="savindupasingtha@Gmail.com">savindupasingtha@gmail.com</a>       
+ 🌱
+ <a href="https://www.upwork.com/freelancers/~01a9342a0e7178f409?viewMode=1">Upwork </a> 
+ 🌱
+ <a href="https://stackoverflow.com/users/15484152/savindu-pasintha">Stack Overflow</a>   
+ 🌱
+ <a href="https://play.google.com/store/apps/dev?id=8686130184507586627">Google Play</a> 
+ 🌱
+ <a href="https://matching.turing.com/developer-resume-preview/fb1d46bcae75689d55b41077fc0068b06de527a32698">Turing Portfolio</a> 
+ 🌱
+ <a href="savindupasingtha@Gmail.com">savindupasingtha@gmail.com</a> 
+ 🌱
  <a href="+94768755787"> Call/Wahtsapp :  +94 76 875 5787 </a>
+ 🌱
 </p>
 
 <p align="center"> ✨ I am professional Full Stack Software Developer ( Web / IOS & Android Mobile App | Ecommerce | Mobile Application Reverse Engineering ) Application development with multiple companies with multiple Technologies in these days.💞️</p>
