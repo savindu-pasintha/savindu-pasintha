@@ -51,7 +51,7 @@
 -           ✨ ELK TECHNOLOGY (ELASTIC SEARCH & LOG DASH & KIBANA UI) ✨ KENDO UI
 -           ✨ REDIS  ✨ KAFKA AND MORE ....
 -   
--   🌱  Black Chain & Crypto Currency & NFT (NUN FUNGIBALE TOKEN)
+-   🌱  Block Chain & Crypto Currency & NFT (NUN FUNGIBALE TOKEN)
 -        
 -   🌱  Machine Learning With Python
 -   
