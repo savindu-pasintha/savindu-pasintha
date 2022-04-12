@@ -31,8 +31,7 @@
 
 <br/>
 <br/>
-<h3 align="left"> Savindu Pasintha's github activity graph </h3>
-<br/>
+</br>
 
 [![](https://activity-graph.herokuapp.com/graph?username=savindu-pasintha&theme=dracula)](https://github.com/savindu-pasintha)
 <br/>
