@@ -71,7 +71,6 @@
 <img  align="right" src="https://user-images.githubusercontent.com/64083148/162944678-9731b41a-1ddd-432d-9dab-b9e7c6939ff8.png" width="45%" height="200" />
 </p>
 
-![Savindu Pasintha's GitHub stats](https://github-readme-stats.vercel.app/api?username=savindu-pasintha&show_icons=true&theme=radical)
 
 
 [![](https://activity-graph.herokuapp.com/graph?username=savindu-pasintha&theme=dracula)](https://github.com/savindu-pasintha)
@@ -81,6 +80,10 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=savindu-pasintha&theme=onedark)](https://github.com/savindu-pasintha/)
+
+
+![Savindu Pasintha's GitHub stats](https://github-readme-stats.vercel.app/api?username=savindu-pasintha&show_icons=true&theme=radical)
+
 
 
 
