@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Savindu Pasintha</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 ![Savindu Pasintha's GitHub stats](https://github-readme-stats.vercel.app/api?username=savindu-pasintha&show_icons=true&theme=radical)
 
