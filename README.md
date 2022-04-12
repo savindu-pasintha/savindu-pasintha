@@ -1,3 +1,12 @@
+![](https://matching.turing.com/developer-resume-preview/fb1d46bcae75689d55b41077fc0068b06de527a32698)
+
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 # Hello, Hi, I’m @savindu-pasintha.. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 #https://savindupasingtha.medium.com #https://landing.jobs/profile/d952d172a58d5e40156315
   👋 Hi, I’m @savindu-pasintha...<a href="https://www.linkedin.com/in/savindu-pasintha-6287a31a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sacindupasintha" height="30" width="40" /></a> 
