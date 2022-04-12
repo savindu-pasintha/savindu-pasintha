@@ -34,10 +34,6 @@
 </br>
 </br>
 
-[![](https://activity-graph.herokuapp.com/graph?username=savindu-pasintha&theme=dracula)](https://github.com/savindu-pasintha)
-<br/>
-<br/>
-
 -    I Love  problem solving..
 -              💞️ JAVA  💞️ C#  💞️ DART  💞️ JAVASCRIPT  💞️ TYPESCRIPT  💞️  PHP   💞️ C++  💞️ KOTLIN
 -   🌱  MOBILE DEVELOPMENT TECHNOLOGIES.
@@ -48,6 +44,12 @@
 -          ✨ REACT_JS - Node_js - ANGULAR - JQUERY - ASP.NET_MVC - AJAX - Express - VUEJS - Laravel - Boostrap -HTML - CSS - WORDPRESS - WEB_HOSTING.
 -   🌱  DATABASE.
 -           ✨ MSSQL  -  MYSQL - FIREBASE -  MONGODB - Elasticsearch - GraphQL - SQLite
+
+
+[![](https://activity-graph.herokuapp.com/graph?username=savindu-pasintha&theme=dracula)](https://github.com/savindu-pasintha)
+<br/>
+<br/>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=savindu-pasintha&theme=onedark)](https://github.com/savindu-pasintha/)
 
