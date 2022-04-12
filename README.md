@@ -1,4 +1,5 @@
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <img src="https://user-images.githubusercontent.com/64083148/162930732-4060b2b5-1fba-4fac-873f-04a741045d19.png" width="100%" height="100%" />
 <img src="https://user-images.githubusercontent.com/64083148/162930830-6073f764-de3e-42c5-8b9a-1bdc08f55ada.png" width="100%" height="100%" />
 <img src="https://user-images.githubusercontent.com/64083148/162930916-9be077ea-7588-4a9a-afc6-0c92c5515be2.png" width="100%" height="100%" />
