@@ -6,7 +6,7 @@
  <a href="https://www.upwork.com/freelancers/~01a9342a0e7178f409?viewMode=1">Upwork </a>  
  <a href="https://stackoverflow.com/users/15484152/savindu-pasintha">Stack Overflow</a>       
  <a href="https://play.google.com/store/apps/dev?id=8686130184507586627">Google Play</a>  
- <a href="https://matching.turing.com/developer-resume-preview/fb1d46bcae75689d55b41077fc0068b06de527a32698">Turing</a>  
+ <a href="https://matching.turing.com/developer-resume-preview/fb1d46bcae75689d55b41077fc0068b06de527a32698">Turing Portfolio</a>  
  <a href="savindupasingtha@Gmail.com">savindupasingtha@gmail.com</a>       
  <a href="+94768755787"> Call/Wahtsapp :  +94 76 875 5787 </a>
 </p>
