@@ -1,7 +1,7 @@
 <h1 align="center">Hi, 👋 I'm Savindu Pasintha 👀</h1>
 <h3 align="center">💞️ A Passionate Freelance Software Engineer</h3> 
--    I Love To Problem Solving And Develop New Innovations..
--              💞️ JAVA  💞️ C#  💞️ DART  💞️ JAVASCRIPT  💞️ TYPESCRIPT  💞️  PHP   💞️ C++  💞️ KOTLIN  💞️ PYTHON
+<p align="center"> I Love To Problem Solving And Develop New Innovations ....  </p>
+<p align="center">      💞️ JAVA  💞️ C#  💞️ DART  💞️ JAVASCRIPT  💞️ TYPESCRIPT  💞️  PHP   💞️ C++  💞️ KOTLIN  💞️ PYTHON </p>
 <p align="center">   
  🌱
  <a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"     alt="sacindupasintha" height="30" width="40" /></a> 
