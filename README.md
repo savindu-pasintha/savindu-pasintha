@@ -55,7 +55,9 @@
 -        
 -   🌱  Machine Learning With Python
 -   
--   🌱  TESTING , DEPLOYMENT And Maintanance
+-   🌱  Vesion Control System Handle (CI/CD) Github/Gitbucket
+-   
+-   🌱  Testing , Deployment And Maintanance
 -   
 -   👋 SDLC 👋 AGAILE 👋 SCRUME And More .....
 
