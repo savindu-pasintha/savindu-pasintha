@@ -38,6 +38,17 @@
 <br/>
 <br/>
 
+-    I Love  problem solving..
+-              💞️ JAVA  💞️ C#  💞️ DART  💞️ JAVASCRIPT  💞️ TYPESCRIPT  💞️  PHP   💞️ C++  💞️ KOTLIN
+-   🌱  MOBILE DEVELOPMENT TECHNOLOGIES.
+-          ✨ FLUTTER  - XAMARIN -  REACT_NATIVE - JAVA
+-   🌱  DESKTOP APPLICATION DEVELOPMENT TECHNOLOGIES.
+-           ✨ C#.NET  -  JAVA WINDOWS
+-   🌱  WEB DEVELOPMENT TECHNOLOGIES.
+-          ✨ REACT_JS - Node_js - ANGULAR - JQUERY - ASP.NET_MVC - AJAX - Express - VUEJS - Laravel - Boostrap -HTML - CSS - WORDPRESS - WEB_HOSTING.
+-   🌱  DATABASE.
+-           ✨ MSSQL  -  MYSQL - FIREBASE -  MONGODB - Elasticsearch - GraphQL - SQLite
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=savindu-pasintha&theme=onedark)](https://github.com/savindu-pasintha/)
 
 
