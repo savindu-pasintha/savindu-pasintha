@@ -5,7 +5,9 @@
 
 <a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sacindupasintha" height="30" width="40" /></a> 
 
-<h4 align="left"> Email :  savindupasingtha@gmail.com </h4>       
+<h4 align="left">
+  <a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="sacindupasintha" height="30" width="40" />
+  Email :  savindupasingtha@gmail.com </h4>       
 <h4 align="left"> Call/Wahtsapp :  +94 76 875 5787 </h4> 
 <h4 align="left"> Medium :   https://savindupasingtha.medium.com</h4>       
 <h4 align="left"> Stack Overflow :  https://stackoverflow.com/users/15484152/savindu-pasintha </h4>       
