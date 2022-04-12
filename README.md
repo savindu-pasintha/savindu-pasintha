@@ -29,9 +29,14 @@
 <img align="left"   src="https://user-images.githubusercontent.com/64083148/162944559-e5f8f5a8-59fd-4b50-9692-ba87dfaa5c14.png" width="45%" height="200" />
 <img  align="right" src="https://user-images.githubusercontent.com/64083148/162944678-9731b41a-1ddd-432d-9dab-b9e7c6939ff8.png" width="45%" height="200" />
 
+<br/>
+<br/>
+<h> </h>
+
 [![Savindu Pasintha's github activity graph](https://activity-graph.herokuapp.com/graph?username=savindu-pasintha&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 <br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savindu-pasintha&langs_count=18)](https://github.com/savindu-pasintha/github-readme-stats)
 
 
