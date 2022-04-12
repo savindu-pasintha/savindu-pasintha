@@ -14,12 +14,14 @@
  🌱
  <a href="https://matching.turing.com/developer-resume-preview/fb1d46bcae75689d55b41077fc0068b06de527a32698">Turing Portfolio</a> 
  🌱
- <a href="savindupasingtha@Gmail.com">savindupasingtha@gmail.com</a> 
+</p>
+<p align="center">
+🌱
+ <a href="savindupasingtha@Gmail.com">Email : savindupasingtha@gmail.com</a> 
  🌱
  <a href="+94768755787"> Call/Wahtsapp :  +94 76 875 5787 </a>
  🌱
-</p>
-
+ </p>
 <p align="center"> ✨ I am professional Full Stack Software Developer ( Web / IOS & Android Mobile App | Ecommerce | Mobile Application Reverse Engineering ) Application development with multiple companies with multiple Technologies in these days.💞️</p>
 
 <p align="center">✨ In My More than 3 years Freelance Carrier Experience through, I Got Full Stack Mobile application development knowledge for android and IOS platform, Fully Functional E-Commerce/WordPress Web Application Development , Full Stack Desktop Application Development , API Development , WEB Hosting , SEO Web and Mobile applications, Real Time time Communication for develop USSD & IVR (Inter Voice Response) Development Knowledge.💞️</p>
