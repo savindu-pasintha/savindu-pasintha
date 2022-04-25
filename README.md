@@ -18,7 +18,9 @@
  🌱
  <a href="https://matching.turing.com/developer-resume-preview/fb1d46bcae75689d55b41077fc0068b06de527a32698">Turing Portfolio</a> 
  🌱
+  <a href="https://github.com/savindu-pasintha/MY_CV/blob/main/README.md">Resume</a> 
 </p>
+
 <p align="center">
 🌱
  <a href="savindupasingtha@Gmail.com">Email : savindupasingtha@gmail.com</a> 
