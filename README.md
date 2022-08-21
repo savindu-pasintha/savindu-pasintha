@@ -2,7 +2,9 @@
 <h3 align="center">👀👋👀 A Professional Fullstack Software Engineer</h3> 
 <p align="center"> I Love To Problem Solving And Develop New Innovations ....  </p>
 <p align="center">💞️ JAVA  💞️ C#  💞️ DART  💞️ JAVASCRIPT  💞️ TYPESCRIPT  💞️  PHP   💞️ C++  💞️ KOTLIN  💞️ PYTHON  💞️ SOLIDITY  💞️ GO  💞️ R .. </p>
-<p align="center">   
+<p align="center"> 
+🌱
+  <a href="https://spasintha.herokuapp.com">Portfolio</a> 
  🌱
  <a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"     alt="sacindupasintha" height="30" width="40" /></a> 
  🌱
@@ -17,8 +19,7 @@
  <a href="https://play.google.com/store/apps/dev?id=8686130184507586627">Google Play</a> 
  🌱
  <a href="https://matching.turing.com/developer-resume-preview/fb1d46bcae75689d55b41077fc0068b06de527a32698">Turing Portfolio</a> 
- 🌱
-  <a href="https://github.com/savindu-pasintha/MY_CV/blob/main/README.md">CV</a> 
+ 
 </p>
 
 <p align="center">
