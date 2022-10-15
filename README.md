@@ -45,7 +45,7 @@
 -          ✨ FLUTTER  ✨ XAMARIN ✨  REACT NATIVE ✨ JAVA/KOTLIN/SWIFT
 -          
 -   🌱  DESKTOP APPLICATION DEVELOPMENT TECHNOLOGIES.
--          ✨ C#.NET  ✨  JAVAFX WINDOWS ✨ C++ QT Framework
+-          ✨ C#.NET  ✨  JAVAFX WINDOWS ✨ C++ QT Framework  ✨ Electronjs
 -          
 -   🌱  WEB DEVELOPMENT TECHNOLOGIES.
 -          ✨ SPRING BOOT ✨ REACT_JS ✨ Node_js ✨ ANGULAR ✨ JQUERY ✨ ASP.NET_MVC ✨ AJAX ✨ Express ✨ VUEJS ✨ Laravel ✨ Boostrap ✨ HTML ✨ CSS ✨ WORDPRESS ✨ WEB_HOSTING AND MORE ...
