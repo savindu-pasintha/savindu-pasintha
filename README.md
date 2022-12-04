@@ -1,5 +1,5 @@
 <h1 align="center">Hi, 👋 I'm Savindu Pasintha 👀</h1>
-<h3 align="center">👀👋👀 Fullstack Software Engineer</h3> 
+<h3 align="center">👀👋👀 Software Developer </h3> 
 <p align="center"> I Love To Problem Solving And Develop New Innovations ....  </p>
 <p align="center">💞️ JAVA  💞️ C#  💞️ DART  💞️ JAVASCRIPT  💞️ TYPESCRIPT  💞️  PHP   💞️ C++  💞️ KOTLIN  💞️ PYTHON  💞️ SOLIDITY  💞️ GO  💞️ R .. </p>
 <p align="center"> 
