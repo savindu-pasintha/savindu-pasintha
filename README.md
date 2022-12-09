@@ -1,9 +1,6 @@
-<h1 align="center">Hi, 👋 I'm Savindu Pasintha 👀</h1>
-<h3 align="center">👀👋👀 Software Developer</h3> 
-<p align="left"> 
-Bsc(hons) Computing and Software Engineering ,at **Cardiff Metropolitan University,Uk **
-</p>
-<p align="left">💞️ JAVA  💞️ C#  💞️ DART  💞️ JAVASCRIPT  💞️ TYPESCRIPT  💞️  PHP   💞️ C++  💞️ KOTLIN  💞️ PYTHON  💞️ SOLIDITY  💞️ GO  💞️ R .. </p>
+<h1 align="center"></h1>
+<h3 align="center">Hi, 👋 I'm Savindu Pasintha 👀 👀👋👀 Software Developer</h3> 
+<p align="left"> JAVA   C#   DART   JAVASCRIPT   TYPESCRIPT    PHP    C++   KOTLIN   PYTHON   SOLIDITY   GO   R .. </p>
 <p align="left"> 
 🌱
   <a href="https://savindu-pasintha.vercel.app">Portfolio</a> 
