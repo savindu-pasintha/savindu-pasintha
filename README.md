@@ -56,19 +56,3 @@
 
 
 ![Savindu Pasintha's GitHub stats](https://github-readme-stats.vercel.app/api?username=savindu-pasintha&show_icons=true&theme=radical)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
