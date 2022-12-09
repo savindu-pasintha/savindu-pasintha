@@ -1,7 +1,8 @@
 <h1 align="center">Hi, 👋 I'm Savindu Pasintha 👀</h1>
 <h3 align="center">👀👋👀 Software Developement & Maintenanace </h3> 
-<p align="center"> I Love To Problem Solving And Develop New Innovations ....  </p>
-- 🔭 Bsc(hons) Computing and Software Engineering , I was Studied at **Cardiff Metropolitan University,Uk , In 2019 **
+<p align="left"> 
+Bsc(hons) Computing and Software Engineering ,at **Cardiff Metropolitan University,Uk **
+</p>
 <p align="center">💞️ JAVA  💞️ C#  💞️ DART  💞️ JAVASCRIPT  💞️ TYPESCRIPT  💞️  PHP   💞️ C++  💞️ KOTLIN  💞️ PYTHON  💞️ SOLIDITY  💞️ GO  💞️ R .. </p>
 <p align="center"> 
 🌱
