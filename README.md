@@ -1,12 +1,12 @@
 <h1 align="center">Hi, 👋 I'm Savindu Pasintha 👀</h1>
-<h3 align="center">👀👋👀 Software Developement & Maintenanace </h3> 
+<h3 align="center">👀👋👀 Software Developer</h3> 
 <p align="left"> 
 Bsc(hons) Computing and Software Engineering ,at **Cardiff Metropolitan University,Uk **
 </p>
 <p align="left">💞️ JAVA  💞️ C#  💞️ DART  💞️ JAVASCRIPT  💞️ TYPESCRIPT  💞️  PHP   💞️ C++  💞️ KOTLIN  💞️ PYTHON  💞️ SOLIDITY  💞️ GO  💞️ R .. </p>
 <p align="left"> 
 🌱
-  <a href="https://spasintha.herokuapp.com">Portfolio</a> 
+  <a href="https://savindu-pasintha.vercel.app">Portfolio</a> 
  🌱
  <a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"     alt="sacindupasintha" height="30" width="40" /></a> 
  🌱
@@ -21,8 +21,8 @@ Bsc(hons) Computing and Software Engineering ,at **Cardiff Metropolitan Universi
  <a href="https://stackoverflow.com/users/15484152/savindu-pasintha">Stack Overflow</a>   
  🌱
  <a href="https://play.google.com/store/apps/dev?id=8686130184507586627">Google Play</a> 
- 🌱
- <a href="https://matching.turing.com/developer-resume-preview/fb1d46bcae75689d55b41077fc0068b06de527a32698">Turing Portfolio</a> 
+
+ <!--  🌱 <a href="https://matching.turing.com/developer-resume-preview/fb1d46bcae75689d55b41077fc0068b06de527a32698">Turing Portfolio</a>  -->
  
 </p>
 
