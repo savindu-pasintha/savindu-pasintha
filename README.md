@@ -17,8 +17,10 @@
  <a href="https://stackoverflow.com/users/15484152/savindu-pasintha">Stack Overflow</a>   
  🌱
  <a href="https://chrome.google.com/webstore/search/savindupasingtha%40gmail.com"> Chrome Store</a>
+  🌱
  <a href="savindupasingtha@Gmail.com">Email : savindupasingtha@gmail.com</a> 
- <a href="+94768755787"> Call/Wahtsapp :  +94 76 875 5787 </a>
+  🌱
+ <a href="+94768755787"> Call : +94 76 875 5787 </a>
  <!--  🌱 <a href="https://matching.turing.com/developer-resume-preview/fb1d46bcae75689d55b41077fc0068b06de527a32698">Turing Portfolio</a>  -->
 </p>
 
@@ -27,7 +29,7 @@
 
   <!--🌱
 <a href="https://play.google.com/store/apps/dev?id=8686130184507586627">Google Play</a> 
- <a href="+94768755787"> Call/Wahtsapp :  +94 76 875 5787 </a>
+ <a href="+94768755787"> Call :  +94 76 875 5787 </a>
  🌱 -->
  </p>
 
