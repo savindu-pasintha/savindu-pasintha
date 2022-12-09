@@ -44,8 +44,9 @@
 
 <p align="left">
   <a href="https://webdev.vpsveritas.com/index.html">* vps web application </a><br/>
-  <a href="https://vpscpdev.z6.web.core.windows.net/">* vps web application - React</a> <br/>
-  <a href="https://f-faces-5c62qkkvb-savindu-pasintha.vercel.app"> * f-faces</a>
+  <a href="https://vpscpdev.z6.web.core.windows.net/">* vps web application - React dashboard</a> <br/>
+  <a href="https://react-admin-dashboard-delta.vercel.app">* react admin dashboard</a> <br/>
+  <a href="https://f-faces-5c62qkkvb-savindu-pasintha.vercel.app"> * f-faces</a><br/>
 </p>  
 <!-- - 
 -   🌱  MOBILE DEVELOPMENT TECHNOLOGIES.
