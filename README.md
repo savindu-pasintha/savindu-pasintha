@@ -5,20 +5,12 @@
 🌱
   <a href="https://savindu-pasintha.vercel.app">Portfolio</a> 
  🌱
- <a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"     alt="sacindupasintha" height="30" width="40" /></a> 
+ <a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank">Linedin></a> 
  🌱
  <a href="https://savindupasingtha.medium.com">Medium</a>
  <!--🌱
- <a href="https://www.upwork.com/freelancers/~01a9342a0e7178f409?viewMode=1">Upwork </a> 
- 🌱
- <a href="https://www.fiverr.com/savindupasingth?public_mode=true">Fiver</a> -->
- 🌱
  <a href="https://stackoverflow.com/users/15484152/savindu-pasintha">Stack Overflow</a>   
  🌱
- <a href="https://play.google.com/store/apps/dev?id=8686130184507586627">Google Play</a> 
- 🌱
- <a href="https://matching.turing.com/developer-resume-preview/fb1d46bcae75689d55b41077fc0068b06de527a32698">Turing Portfolio</a> 
- 
 </p>
 
 <p align="center">
