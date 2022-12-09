@@ -46,7 +46,10 @@
   <a href="https://webdev.vpsveritas.com/index.html">* vps web application </a><br/>
   <a href="https://vpscpdev.z6.web.core.windows.net/">* vps web application - React dashboard</a> <br/>
   <a href="https://react-admin-dashboard-delta.vercel.app">* react admin dashboard</a> <br/>
-  <a href="https://f-faces-5c62qkkvb-savindu-pasintha.vercel.app"> * f-faces</a><br/>
+  <a href="https://f-faces-5c62qkkvb-savindu-pasintha.vercel.app"> * f-faces - react</a><br/>
+  <a href="https://github.com/savindu-pasintha/react-sidebar-Navigation">react-sidebar-Navigation</a><br/>
+   <a href="https://chat-example-coral.vercel.app"> chat app - nodejs socket.io</a><br/>
+    <a href="https://reactjs-database-scema-diagram-designing-tool.vercel.app">database schema design tool - react </a><br/>
 </p>  
 <!-- - 
 -   🌱  MOBILE DEVELOPMENT TECHNOLOGIES.
