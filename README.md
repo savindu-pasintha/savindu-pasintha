@@ -3,8 +3,8 @@
 <p align="left"> 
 Bsc(hons) Computing and Software Engineering ,at **Cardiff Metropolitan University,Uk **
 </p>
-<p align="center">💞️ JAVA  💞️ C#  💞️ DART  💞️ JAVASCRIPT  💞️ TYPESCRIPT  💞️  PHP   💞️ C++  💞️ KOTLIN  💞️ PYTHON  💞️ SOLIDITY  💞️ GO  💞️ R .. </p>
-<p align="center"> 
+<p align="left">💞️ JAVA  💞️ C#  💞️ DART  💞️ JAVASCRIPT  💞️ TYPESCRIPT  💞️  PHP   💞️ C++  💞️ KOTLIN  💞️ PYTHON  💞️ SOLIDITY  💞️ GO  💞️ R .. </p>
+<p align="left"> 
 🌱
   <a href="https://spasintha.herokuapp.com">Portfolio</a> 
  🌱
