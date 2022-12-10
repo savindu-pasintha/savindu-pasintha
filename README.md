@@ -46,7 +46,7 @@
 |    ---|       ---|
 | Realm (ms) | 24 |
 | SnappyDB (ms) | 187 | 
-
+|
 <p align="left">
   <a href="https://webdev.vpsveritas.com/index.html">* vps web application </a><br/>
   <a href="https://vpscpdev.z6.web.core.windows.net/">* vps web application - React dashboard</a> <br/>
@@ -61,6 +61,7 @@
   <a href="https://youclever.netlify.app">* you clever - react </a><br/>
   <a href="https://yourportfoliosa.netlify.app">* stephan porfolio - react</a><br/>
 </p>  
+| 12 |
 <!-- - 
 -   🌱  MOBILE DEVELOPMENT TECHNOLOGIES.
 -          ✨ FLUTTER  ✨ XAMARIN ✨  REACT NATIVE ✨ JAVA/KOTLIN/SWIFT
