@@ -190,9 +190,8 @@
       <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/master/Linear%20Layout%20Row-Colum%20calculater%20app">* android/java - calculater app using android row/column to linear layout </a><br/>
       <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/master/LayoutDataBinding">* android/java - layout binding sample app </a><br/>
       </p>  
-   </td>
-     
-    <td>
+   </td>    
+   <td>
         <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/ButterKnifeDemo">* android/java - butter knife demo app  </a><br/>
         <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/CustomFont">* android/java - custom font sample app </a><br/>
         <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/ExternalDatabaseDemo">* android/java - external database demo app </a><br/>
@@ -207,8 +206,7 @@
         <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/simplelistview">* android/java -  sample list view app</a><br/>
         <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/spinner">* android/java - android spiner load app  </a><br/>
         <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/projects">* android/kotlin - calculator app </a><br/>
-  </td>
-     
+  </td>  
   <td>
        <a href="https://github.com/savindu-pasintha/fluter/tree/main/adobe%20xported%20fluter%20codes">* adobe xd exported flutter code </a><br/>
        <a href="https://github.com/savindu-pasintha/fluter/tree/main/chat%20_app_codes">* chat app - flutter </a><br/>
@@ -221,8 +219,7 @@
       <a href="https://github.com/savindu-pasintha/fluter/tree/main/music%20app%20codes%20fluter%20dart">* music app -flutter</a><br/>
       <a href="https://github.com/savindu-pasintha/fluter/tree/main/fluter_food_lab_codes%2015%20mode%20dart%20files">* food delivery - flutter</a><br/>
       <a href="https://github.com/savindu-pasintha/fluter/blob/main/flutter_tutorial.pdf">* tutorial pdf - flutter</a><br/> 
- </td>
-     
+ </td>   
  </tr>
 </table>
 
