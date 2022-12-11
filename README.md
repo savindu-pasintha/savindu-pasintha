@@ -55,7 +55,7 @@
 </table>  
   
 <table>
-    <tr>
+  <tr>
       <th>Frontend(React/Gasby/Next .js,.ts,.php)</th>
       <th>Backend</th>
       <th>Desktop</th>
@@ -104,7 +104,6 @@
             <a href="https://github.com/savindu-pasintha/golang-web-development-series/tree/main/gowebapp">* go - web site development serious</a><br/>
          </p>
      </td>
-      
      <td>
       <p align="left">
             <a href="https://github.com/savindu-pasintha/dubai_web_Nodejs_mysql/tree/main/backend">* nodejs - dubai career web app</a><br/>
@@ -144,8 +143,11 @@
 </table>  
 
 <table>
-    <tr><th>Hosted Web Sites</th><th>Flutter</th></tr>
     <tr>
+      <th>Hosted Web Sites</th>
+      <th>Flutter</th>
+  </tr>
+   <tr>
     <td>
    <p align="left">
   <a href="https://webdev.vpsveritas.com/index.html">* vps web application </a><br/>
