@@ -74,6 +74,7 @@
          <a href="https://github.com/savindu-pasintha/machin-learning-hart-deseace-prediction">* machine learning with python , predict hart disease</a><br/>
         <a href="https://github.com/savindu-pasintha/Python-WebDriver-Tutorials-Automation">* python automation webdriver codes </a><br/>
          <a href="https://github.com/savindu-pasintha/python-web-scraping-data-save-to-excel-sheet--create-savindu">* python web scraping and data save to excel sheet </a><br/>
+         <a href="https://github.com/savindu-pasintha/android-app-revers-engineerig-with-jadx">* android app reverse engineering with JADX </a><br/>
       </td>
     </tr>  
 </table>  
@@ -130,6 +131,7 @@
             <a href="https://github.com/savindu-pasintha/todo-app-react-nodejs-mysql/tree/main/nodejs%20server">* nodejs - todo app</a><br/>
            <a href="https://github.com/savindu-pasintha/cloud-learn-x-e-class-room-back-end">* nodejs - webRTC/janus audio . vedio , white board charing clould learnx web application</a><br/>
             <a href="https://github.com/savindu-pasintha/cheap-resto-nodejs-backend-graphql-mysql-jwt">* nodejs - cheap resto</a><br/>
+        <a href="https://github.com/savindu-pasintha/nodejs-proxy-server">* nodejs - proxy server</a><br/>
             <a href="https://github.com/savindu-pasintha/auth-jwt-with-React-and-Nodejs/tree/main/backend">* nodejs - auth jwt</a><br/>
             <a href="https://github.com/savindu-pasintha/Nodejs-Passport-Login">* nodejs - passportjs login</a><br/>
             <a href="https://github.com/savindu-pasintha/Hotel-Management-Web-App-ReactJS-NodeJS-MySql--/tree/main/backend">* nodejs - air bnb hotel management</a><br/>
