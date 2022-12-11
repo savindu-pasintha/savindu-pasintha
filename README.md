@@ -184,10 +184,8 @@
       <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/master/Linear%20Layout%20Row-Colum%20calculater%20app">* android/java - calculater app using android row/column to linear layout </a><br/>
       <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/master/LayoutDataBinding">* android/java - layout binding sample app </a><br/>
       <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/ButterKnifeDemo">* android/java - butter knife demo app  </a><br/>
-      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/CustomFont">* android/java -  </a><br/>
       <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/CustomFont">* android/java - custom font sample app </a><br/>
       <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/ExternalDatabaseDemo">* android/java - external database demo app </a><br/>
-      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/Grid%20view%20array%20adapter%20using">* android/java -  </a><br/>
       <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/Grid%20view%20array%20adapter%20using">* android/java - Grid view using array adapter</a><br/>
      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/ImageDatabaseDemo">* android/java - image database demo app </a><br/>
      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/NavigationDrawer">* android/java - sample navigation drawer </a><br/>
@@ -202,7 +200,6 @@
 </p>  
    </td>
    <td><p align="left">
-   <a href="">* </a><br/>
    <a href="https://github.com/savindu-pasintha/fluter/tree/main/adobe%20xported%20fluter%20codes">* adobe xd exported flutter code </a><br/>
    <a href="https://github.com/savindu-pasintha/fluter/tree/main/chat%20_app_codes">* chat app - flutter </a><br/>
    <a href="https://github.com/savindu-pasintha/fluter/tree/main/bank%20account%20handle%20app%20fluter%20codes">* bank account handle app - flutter</a>      <br/>
