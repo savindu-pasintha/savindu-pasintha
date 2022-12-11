@@ -163,24 +163,42 @@
 
 <table>
     <tr>
-      <th>Hosted Web Sites</th>
-      <th>Flutter</th>
+      <th>Mobile apps</th>
+      <th>Mobile apps</th>
   </tr>
    <tr>
     <td>
    <p align="left">
-  <a href="https://webdev.vpsveritas.com/index.html">* vps web application </a><br/>
-  <a href="https://vpscpdev.z6.web.core.windows.net/">* vps web application - React dashboard</a> <br/>
-  <a href="https://react-admin-dashboard-delta.vercel.app">* react admin dashboard</a> <br/>
-  <a href="https://reactjs-realtime-chart-visualize.vercel.app">* reactjs realtime charts visualize for dashboards</a> <br/>
-  <a href="https://financian-banking-site-react-tawlindc.vercel.app">* banking website - react/tawlind css</a><br/> 
-  <a href="https://food-delivery-ecommerce-app.netlify.app/home">* food delivery website reactjs</a><br/>
-  <a href="https://f-faces-5c62qkkvb-savindu-pasintha.vercel.app"> * f-faces - react</a><br/>
-  <a href="https://github.com/savindu-pasintha/react-sidebar-Navigation">* react-sidebar-Navigation</a><br/>
-  <a href="https://chat-example-coral.vercel.app">* chat app - nodejs socket.io</a><br/>
-  <a href="https://reactjs-database-scema-diagram-designing-tool.vercel.app">* database schema design tool - react </a><br/>
-  <a href="https://youclever.netlify.app">* you clever - react </a><br/>
-  <a href="https://yourportfoliosa.netlify.app">* stephan porfolio - react</a><br/>
+  <a href="https://github.com/savindu-pasintha/ExtremelPVT-Link-Android-Java-App-2022-6">* android/java - exterminal link app </a><br/>
+   <a href="https://github.com/savindu-pasintha/Android-Product-Item-with-Retrofit-Rest-Service-Java">* android/java - product item with retrofit http service  </a><br/>
+   <a href="https://github.com/savindu-pasintha/Android-Java-news-app">* android/java - news app </a><br/>
+      <a href="https://github.com/savindu-pasintha/Youtube-Android-App-Design">* android/java - youtube clone app </a><br/>
+      <a href="https://github.com/savindu-pasintha/machan-eats-Android-App">* android/java - machan eats signin/signup screens </a><br/>
+      <a href="https://github.com/savindu-pasintha/Fragments/tree/master/Fragements">* android/java - sample fragment screens</a><br/>
+      <a href="https://github.com/savindu-pasintha/DatabaseTester-android-java">* android/java - database tester app </a><br/>
+      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/master/BluetoothWifyHandler">* android/java - bluetooth & wifi manage app </a><br/>
+      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/master/Ecommerce%20Cup%20cake%20selling%20app">* android/java - full ecommerce cupcake app </a><br/>
+      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/master/Status-Saver-master">* android/java -  whatsapp status image/vedio downloader app</a><br/>
+      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/master/WallpaperChangeApp">* android/java - wallpaper image changer app </a><br/>
+      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/ContactsReader">* android/java - mobile phone contact reading app </a><br/>
+      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/master/Linear%20Layout%20Row-Colum%20calculater%20app">* android/java - calculater app using android row/column to linear layout </a><br/>
+      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/master/LayoutDataBinding">* android/java - layout binding sample app </a><br/>
+      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/ButterKnifeDemo">* android/java - butter knife demo app  </a><br/>
+      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/CustomFont">* android/java -  </a><br/>
+      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/CustomFont">* android/java - custom font sample app </a><br/>
+      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/ExternalDatabaseDemo">* android/java - external database demo app </a><br/>
+      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/Grid%20view%20array%20adapter%20using">* android/java -  </a><br/>
+      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/Grid%20view%20array%20adapter%20using">* android/java - Grid view using array adapter</a><br/>
+     <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/ImageDatabaseDemo">* android/java - image database demo app </a><br/>
+     <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/NavigationDrawer">* android/java - sample navigation drawer </a><br/>
+     <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/RecyclerView">* android/java - sample recycler view app </a><br/>
+     <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/cart%20item%20view%20baseAdapter">* android/java - sample base adapter using view cart items </a><br/>
+     <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/customizedlistview">* android/java - sample customized list view </a><br/>
+     <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/eventhandling">* android/java -  events handling(click event) app</a><br/>
+      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/layouts">* android/java - sample layout app </a><br/>
+        <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/simplelistview">* android/java -  sample list view app</a><br/>
+      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/spinner">* android/java - android spiner load app  </a><br/>
+      <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/projects">* android/kotlin - calculator app </a><br/>
 </p>  
    </td>
    <td><p align="left">
@@ -250,7 +268,6 @@
 <img align="left"   src="https://user-images.githubusercontent.com/64083148/162944559-e5f8f5a8-59fd-4b50-9692-ba87dfaa5c14.png" width="45%" height="200" />
 <img  align="right" src="https://user-images.githubusercontent.com/64083148/162944678-9731b41a-1ddd-432d-9dab-b9e7c6939ff8.png" width="45%" height="200" />
 </p -->
-
 
 
 [![](https://activity-graph.herokuapp.com/graph?username=savindu-pasintha&theme=dracula)](https://github.com/savindu-pasintha)
