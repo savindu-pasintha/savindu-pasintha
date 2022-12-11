@@ -127,9 +127,7 @@
             <a href="https://github.com/savindu-pasintha/golang-web-development-series/tree/main/gowebapp">* go - web site development serious</a><br/>
          </p>
      </td>
-     
      <td>
-         <p align="left">
             <a href="https://github.com/savindu-pasintha/dubai_web_Nodejs_mysql/tree/main/backend">* nodejs - dubai career web app</a><br/>
             <a href="https://github.com/savindu-pasintha/todo-app-react-nodejs-mysql/tree/main/nodejs%20server">* nodejs - todo app</a><br/>
            <a href="https://github.com/savindu-pasintha/cloud-learn-x-e-class-room-back-end">* nodejs - webRTC/janus audio . vedio , white board charing clould learnx web application</a><br/>
@@ -147,7 +145,7 @@
           <a href="">* java ee/maven - hospital managemnet</a><br/>
           <a href="">* java ee/maven - car garbage managment system</a><br/>
          <a href="https://github.com/savindu-pasintha/.Net-web-API-CRUD">* c#/.net - web api crude operation</a><br/>
-       </p>
+      
    </td>
    <td>
          <p align="left">
