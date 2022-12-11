@@ -55,8 +55,12 @@
 </table>  
   
 <table>
-    <tr><th>Frontend(React/Gasby/Next .js,.ts,.php)</th><th>Backend</th><th>Desktop</th></tr>
     <tr>
+      <th>Frontend(React/Gasby/Next .js,.ts,.php)</th>
+      <th>Backend</th>
+      <th>Desktop</th>
+  </tr>
+   <tr>
       <td>
          <p align="left">
             <a href="">* </a><br/>
@@ -98,9 +102,9 @@
             <a href="https://github.com/savindu-pasintha/php">* php - basic theories</a><br/>
             <a href="https://github.com/savindu-pasintha/asp.Net-Web-Application">* c#/asp.net - flora selling web site front end</a><br/>
             <a href="https://github.com/savindu-pasintha/golang-web-development-series/tree/main/gowebapp">* go - web site development serious</a><br/>
-            
          </p>
-      </td>
+     </td>
+      
      <td>
       <p align="left">
             <a href="https://github.com/savindu-pasintha/dubai_web_Nodejs_mysql/tree/main/backend">* nodejs - dubai career web app</a><br/>
