@@ -58,7 +58,7 @@
   <a href="https://react-admin-dashboard-delta.vercel.app">* react admin dashboard</a> <br/>
   <a href="https://reactjs-realtime-chart-visualize.vercel.app">* reactjs realtime charts visualize for dashboards</a> <br/>
   <a href="https://financian-banking-site-react-tawlindc.vercel.app">* banking website - react/tawlind css</a><br/> 
-  <a href="https://food-delivery-ecommerce-app.netlify.app/home">* food delivery website reactjs</a><br/>
+  <a href="https://food-delivery-ecommerce-app.netlify.app">* food delivery website reactjs</a><br/>
   <a href="https://f-faces-5c62qkkvb-savindu-pasintha.vercel.app"> * f-faces - react</a><br/>
   <a href="https://github.com/savindu-pasintha/react-sidebar-Navigation">* react-sidebar-Navigation</a><br/>
   <a href="https://chat-example-coral.vercel.app">* chat app - nodejs socket.io</a><br/>
