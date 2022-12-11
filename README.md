@@ -80,24 +80,24 @@
   
 <table>
   <tr>
-      <th>Frontend(React/Gasby/Next .js,.ts,.php)</th>
+      <th> Web (React/Gasby/Next .js,.ts,.php)</th>
       <th>Backend</th>
       <th>Desktop</th>
   </tr>
    <tr>
       <td>
          <p align="left">
-            <a href="https://github.com/savindu-pasintha/Reactjs-Utilities">* Reactjs Utilities</a><br/>
-            <a href="https://github.com/savindu-pasintha/financian-banking-site---react-tawlindc">* Financial banking site</a><br/>
-            <a href="https://github.com/savindu-pasintha/reactjs-realtime-chart-visualize">* real time charts visualize for dashboards</a><br/>
-            <a href="https://github.com/savindu-pasintha/Multi-functional-reactjs-Material-Table">* multi functional react material table</a><br/>
-            <a href="https://github.com/savindu-pasintha/F_faces_Reactjs_Portfolio_Site">*  f-faces site</a><br/>
-            <a href="https://github.com/savindu-pasintha/react-admin-dashboard">* modern admin dashboard</a><br/>
-            <a href="https://github.com/savindu-pasintha/Reactjs-food-delivery-website-">* food delivery web application</a><br/>
-            <a href="https://github.com/savindu-pasintha/REACT-MICRO-FRONTEND-APPLICATION">* micro frontend application</a><br/>
-            <a href="https://github.com/savindu-pasintha/react-folder-structure">* react folder structure</a><br/>
-            <a href="https://github.com/savindu-pasintha/react-folder-structure">* react side bar navigation</a><br/>
-            <a href="https://github.com/savindu-pasintha/Reactjs-Database-Scema-Diagram-Designing-Tool-">* database schema generate tool</a><br/> 
+            <a href="https://github.com/savindu-pasintha/Reactjs-Utilities">*  Reactjs Utilities</a><br/>
+            <a href="https://github.com/savindu-pasintha/financian-banking-site---react-tawlindc">* react - Financial banking site</a><br/>
+            <a href="https://github.com/savindu-pasintha/reactjs-realtime-chart-visualize">* react - real time charts visualize for dashboards</a><br/>
+            <a href="https://github.com/savindu-pasintha/Multi-functional-reactjs-Material-Table">* react - multi functional  material table</a><br/>
+            <a href="https://github.com/savindu-pasintha/F_faces_Reactjs_Portfolio_Site">* react - f-faces site</a><br/>
+            <a href="https://github.com/savindu-pasintha/react-admin-dashboard">* react - modern admin dashboard</a><br/>
+            <a href="https://github.com/savindu-pasintha/Reactjs-food-delivery-website-">* react - food delivery web application</a><br/>
+            <a href="https://github.com/savindu-pasintha/REACT-MICRO-FRONTEND-APPLICATION">* react - micro frontend application</a><br/>
+            <a href="https://github.com/savindu-pasintha/react-folder-structure">* react - folder structure</a><br/>
+            <a href="https://github.com/savindu-pasintha/react-folder-structure">* react - side bar navigation</a><br/>
+            <a href="https://github.com/savindu-pasintha/Reactjs-Database-Scema-Diagram-Designing-Tool-">* react - database schema generate tool</a><br/> 
             <a href="https://github.com/savindu-pasintha/Youclever-Site-">* react - you clever developer hiring web application</a><br/>
               <a href="https://github.com/savindu-pasintha/Screen-shairing-Vidio-Chat--Whiteboard-Tutoring-Site">* react - webRTC screen Audio , Vedio  & whiteboard sharing web application</a><br/>
               <a href="https://github.com/savindu-pasintha/cloud-learn-x-e-class-room-front-end">* react - webRTC/janus audio . vedio , white board charing clould learnx web application</a><br/>
@@ -115,7 +115,7 @@
             <a href="https://github.com/savindu-pasintha/Insuarance-web-application-gasby">* gasbyjs -insuarance web app</a><br/>
             <a href="https://github.com/savindu-pasintha/react-native-sales-play-dashboard">* react native -sales play pos dashboard app</a><br/>
             <a href="https://github.com/savindu-pasintha/LIVE-uber-eats-clone-youtube">* react native uber eats clone</a><br/>
-            <a href="https://github.com/savindu-pasintha/javascript-digital-clock">* javascript digital clock</a><br/>
+            <a href="https://github.com/savindu-pasintha/javascript-digital-clock">* javascript - digital clock</a><br/>
             <a href="https://github.com/savindu-pasintha/CakePhp-project">* php - cake php framework project</a><br/>
             <a href="https://github.com/savindu-pasintha/php-e-commerce-Jewelary-site-savindu">* php - jewelery ecomerce web site</a><br/>
             <a href="https://github.com/savindu-pasintha/php-and-javascript-share-values">* php - php - javascript between share values</a><br/>
