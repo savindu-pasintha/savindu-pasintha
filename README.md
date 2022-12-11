@@ -110,11 +110,9 @@
             <a href="https://github.com/savindu-pasintha/Reactjs-axios-firebase--my-academy-web-site-savindu">* my academy web site</a><br/>
             <a href="https://github.com/savindu-pasintha/Reactjs-portfolio-site-for-stephaneinnative-NEGOMBO">* stephan portfolio site</a><br/>
             <a href="https://github.com/savindu-pasintha/juggle-and-drop-drag-and-drop-with-react-redux">* drag and drop task management tool</a><br/>
-            <a href="https://github.com/savindu-pasintha/React-Redux-Tutorial">* sample redux tutorial</a><br/>
-            <a href="https://github.com/savindu-pasintha/auth-jwt-with-React-and-Nodejs/tree/main/frontend">* auth jwt sample</a><br/>
+            <a href="https://github.com/savindu-pasintha/React-Redux-Tutorial">* react - sample redux tutorial</a><br/>
+            <a href="https://github.com/savindu-pasintha/auth-jwt-with-React-and-Nodejs/tree/main/frontend">* react - auth jwt sample</a><br/>
             <a href="https://github.com/savindu-pasintha/Insuarance-web-application-gasby">* gasbyjs -insuarance web app</a><br/>
-            <a href="https://github.com/savindu-pasintha/react-native-sales-play-dashboard">* react native -sales play pos dashboard app</a><br/>
-            <a href="https://github.com/savindu-pasintha/LIVE-uber-eats-clone-youtube">* react native uber eats clone</a><br/>
             <a href="https://github.com/savindu-pasintha/javascript-digital-clock">* javascript - digital clock</a><br/>
             <a href="https://github.com/savindu-pasintha/CakePhp-project">* php - cake php framework project</a><br/>
             <a href="https://github.com/savindu-pasintha/php-e-commerce-Jewelary-site-savindu">* php - jewelery ecomerce web site</a><br/>
@@ -208,17 +206,19 @@
         <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/projects">* android/kotlin - calculator app </a><br/>
   </td>  
   <td>
-       <a href="https://github.com/savindu-pasintha/fluter/tree/main/adobe%20xported%20fluter%20codes">* adobe xd exported flutter code </a><br/>
-       <a href="https://github.com/savindu-pasintha/fluter/tree/main/chat%20_app_codes">* chat app - flutter </a><br/>
-       <a href="https://github.com/savindu-pasintha/fluter/tree/main/bank%20account%20handle%20app%20fluter%20codes">* bank account handle app - flutter</a>      <br/>
-      <a href="https://github.com/savindu-pasintha/fluter/tree/main/firebase%20crude%20operation%20with%20fluter">* firebase crude operation - flutter</a><br/>
-      <a href="https://github.com/savindu-pasintha/fluter/tree/main/firebase%20image%20operation">* firebase image operation - flutter</a><br/>
-      <a href="https://github.com/savindu-pasintha/fluter/tree/main/fluter%20savindu%20calculater%20app%20code">* calculator app - flutter</a><br/>
+       <a href="https://github.com/savindu-pasintha/fluter/tree/main/adobe%20xported%20fluter%20codes">*  flutter - adobe xd exported flutter code </a><br/>
+       <a href="https://github.com/savindu-pasintha/fluter/tree/main/chat%20_app_codes">*  flutter - chat app</a><br/>
+       <a href="https://github.com/savindu-pasintha/fluter/tree/main/bank%20account%20handle%20app%20fluter%20codes">*  flutter - bank account handle app</a>      <br/>
+      <a href="https://github.com/savindu-pasintha/fluter/tree/main/firebase%20crude%20operation%20with%20fluter">*  flutter - firebase crude operation</a><br/>
+      <a href="https://github.com/savindu-pasintha/fluter/tree/main/firebase%20image%20operation">*  flutter - firebase image operation</a><br/>
+      <a href="https://github.com/savindu-pasintha/fluter/tree/main/fluter%20savindu%20calculater%20app%20code">*  flutter - calculator app</a><br/>
       <a href="https://github.com/savindu-pasintha/fluter/tree/main/fluter%20theory%20list%20view">* list view flutter</a><br/>
-      <a href="https://github.com/savindu-pasintha/fluter/tree/main/fluter_stream_api_chat%20app%20codes">* stream api  caht app - flutter </a><br/>
-      <a href="https://github.com/savindu-pasintha/fluter/tree/main/music%20app%20codes%20fluter%20dart">* music app -flutter</a><br/>
-      <a href="https://github.com/savindu-pasintha/fluter/tree/main/fluter_food_lab_codes%2015%20mode%20dart%20files">* food delivery - flutter</a><br/>
-      <a href="https://github.com/savindu-pasintha/fluter/blob/main/flutter_tutorial.pdf">* tutorial pdf - flutter</a><br/> 
+      <a href="https://github.com/savindu-pasintha/fluter/tree/main/fluter_stream_api_chat%20app%20codes">*  flutter - stream api  caht app</a><br/>
+      <a href="https://github.com/savindu-pasintha/fluter/tree/main/music%20app%20codes%20fluter%20dart">*  flutter - music app</a><br/>
+      <a href="https://github.com/savindu-pasintha/fluter/tree/main/fluter_food_lab_codes%2015%20mode%20dart%20files">*  flutter - food delivery</a><br/>
+      <a href="https://github.com/savindu-pasintha/fluter/blob/main/flutter_tutorial.pdf">* flutter - tutorial pdf</a><br/> 
+      <a href="https://github.com/savindu-pasintha/react-native-sales-play-dashboard">* react native - sales play pos dashboard app</a><br/>
+      <a href="https://github.com/savindu-pasintha/LIVE-uber-eats-clone-youtube">* react native - uber eats clone</a><br/>
  </td>   
  </tr>
 </table>
