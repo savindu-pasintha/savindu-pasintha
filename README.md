@@ -193,7 +193,6 @@
    </td>
      
     <td>
-      <p align="left">
         <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/ButterKnifeDemo">* android/java - butter knife demo app  </a><br/>
         <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/CustomFont">* android/java - custom font sample app </a><br/>
         <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/ExternalDatabaseDemo">* android/java - external database demo app </a><br/>
@@ -208,11 +207,9 @@
         <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/simplelistview">* android/java -  sample list view app</a><br/>
         <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/spinner">* android/java - android spiner load app  </a><br/>
         <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/main/projects">* android/kotlin - calculator app </a><br/>
-      </p> 
   </td>
      
   <td>
-      <p align="left">
        <a href="https://github.com/savindu-pasintha/fluter/tree/main/adobe%20xported%20fluter%20codes">* adobe xd exported flutter code </a><br/>
        <a href="https://github.com/savindu-pasintha/fluter/tree/main/chat%20_app_codes">* chat app - flutter </a><br/>
        <a href="https://github.com/savindu-pasintha/fluter/tree/main/bank%20account%20handle%20app%20fluter%20codes">* bank account handle app - flutter</a>      <br/>
@@ -223,8 +220,7 @@
       <a href="https://github.com/savindu-pasintha/fluter/tree/main/fluter_stream_api_chat%20app%20codes">* stream api  caht app - flutter </a><br/>
       <a href="https://github.com/savindu-pasintha/fluter/tree/main/music%20app%20codes%20fluter%20dart">* music app -flutter</a><br/>
       <a href="https://github.com/savindu-pasintha/fluter/tree/main/fluter_food_lab_codes%2015%20mode%20dart%20files">* food delivery - flutter</a><br/>
-      <a href="https://github.com/savindu-pasintha/fluter/blob/main/flutter_tutorial.pdf">* tutorial pdf - flutter</a><br/>
-   </p> 
+      <a href="https://github.com/savindu-pasintha/fluter/blob/main/flutter_tutorial.pdf">* tutorial pdf - flutter</a><br/> 
  </td>
      
  </tr>
