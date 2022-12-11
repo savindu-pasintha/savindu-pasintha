@@ -49,9 +49,8 @@
          <p align="left">
             <a href="https://github.com/savindu-pasintha/chrome-extentions-development">* chrome extention development</a><br/>
             <a href="https://github.com/savindu-pasintha/Thermal-Printing-Software-Solution-USB-Supported">* Thermal Printer SDK For Windows Operating System</a><br/>
-            <a href="">* </a><br/>
          </p>
-       <.td>
+       <td>
     </tr>  
 </table>  
   
