@@ -105,11 +105,11 @@
            <a href="https://github.com/savindu-pasintha/netflix">* react - netflix clone</a><br/>
             <a href="https://github.com/savindu-pasintha/LIVE-uber-eats-clone-youtube">* react - youtube clone</a><br/>
             <a href="https://github.com/savindu-pasintha/Cheap-Resto-">* react - cheap resto restaurent searching web application</a><br/>
-            <a href="https://github.com/savindu-pasintha/Reactjs-Database-Scema-Diagram-Designing-Tool-">* tourism admin dashboard</a><br/>
-            <a href="https://github.com/savindu-pasintha/Hotel-Management-Web-App-ReactJS-NodeJS-MySql--/tree/main/airbnb">* air bnb hotel management site</a><br/>
-            <a href="https://github.com/savindu-pasintha/Reactjs-axios-firebase--my-academy-web-site-savindu">* my academy web site</a><br/>
-            <a href="https://github.com/savindu-pasintha/Reactjs-portfolio-site-for-stephaneinnative-NEGOMBO">* stephan portfolio site</a><br/>
-            <a href="https://github.com/savindu-pasintha/juggle-and-drop-drag-and-drop-with-react-redux">* drag and drop task management tool</a><br/>
+            <a href="https://github.com/savindu-pasintha/Reactjs-Database-Scema-Diagram-Designing-Tool-">* react - tourism admin dashboard</a><br/>
+            <a href="https://github.com/savindu-pasintha/Hotel-Management-Web-App-ReactJS-NodeJS-MySql--/tree/main/airbnb">* react - air bnb hotel management site</a><br/>
+            <a href="https://github.com/savindu-pasintha/Reactjs-axios-firebase--my-academy-web-site-savindu">* react - my academy web site</a><br/>
+            <a href="https://github.com/savindu-pasintha/Reactjs-portfolio-site-for-stephaneinnative-NEGOMBO">* react - stephan portfolio site</a><br/>
+            <a href="https://github.com/savindu-pasintha/juggle-and-drop-drag-and-drop-with-react-redux">* react - drag and drop task management tool</a><br/>
             <a href="https://github.com/savindu-pasintha/React-Redux-Tutorial">* react - sample redux tutorial</a><br/>
             <a href="https://github.com/savindu-pasintha/auth-jwt-with-React-and-Nodejs/tree/main/frontend">* react - auth jwt sample</a><br/>
             <a href="https://github.com/savindu-pasintha/Insuarance-web-application-gasby">* gasbyjs -insuarance web app</a><br/>
