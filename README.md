@@ -15,10 +15,12 @@
  -->
  🌱
  <a href="https://stackoverflow.com/users/15484152/savindu-pasintha">Stack Overflow</a>   
-  <br/>
- 🌱
- <a href="https://chrome.google.com/webstore/search/savindupasingtha%40gmail.com"> Chrome Store</a>
+   🌱
+  <a href="https://chrome.google.com/webstore/search/savindupasingtha%40gmail.com"> Chrome Store</a>
   🌱
+  <br/>
+
+ 
  <a href="savindupasingtha@Gmail.com">Email : savindupasingtha@gmail.com</a> 
   🌱
  <a href="+94768755787"> +94 76 875 5787 </a>
