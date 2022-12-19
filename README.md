@@ -134,6 +134,7 @@
         <a href="https://github.com/savindu-pasintha/nodejs-proxy-server">* nodejs - proxy server</a><br/>
             <a href="https://github.com/savindu-pasintha/auth-jwt-with-React-and-Nodejs/tree/main/backend">* nodejs - auth jwt</a><br/>
             <a href="https://github.com/savindu-pasintha/Nodejs-Passport-Login">* nodejs - passportjs login</a><br/>
+       <a href="https://github.com/savindu-pasintha/nodejs-mysql-sequalize">nodejs/mysql-squalize</a><br/>
             <a href="https://github.com/savindu-pasintha/Hotel-Management-Web-App-ReactJS-NodeJS-MySql--/tree/main/backend">* nodejs - air bnb hotel management</a><br/>
             <a href="https://github.com/savindu-pasintha/kafka-nodejs-with-consumer-and-producer">* nodejs - kafka messagin protocol</a><br/>
             <a href="https://github.com/savindu-pasintha/role-based-access-control">* nodejs - role base access control</a><br/>
