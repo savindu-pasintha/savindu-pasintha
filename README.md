@@ -90,7 +90,7 @@
       <td>
          <p align="left">
             <a href="https://github.com/savindu-pasintha/Reactjs-Utilities">*  Reactjs Utilities</a><br/>
-            <a href="https://github.com/savindu-pasintha/OpenAI-Own-Chatbot">OWN CHAT BOT USING Open AI CHATGPT</a>
+            <a href="https://github.com/savindu-pasintha/OpenAI-Own-Chatbot">* Own chatbot using Open-AI CHATGPT</a>
             <a href="https://github.com/savindu-pasintha/financian-banking-site---react-tawlindc">* react - Financial banking site</a><br/>
             <a href="https://github.com/savindu-pasintha/reactjs-realtime-chart-visualize">* react - real time charts visualize for dashboards</a><br/>
             <a href="https://github.com/savindu-pasintha/Multi-functional-reactjs-Material-Table">* react - multi functional  material table</a><br/>
