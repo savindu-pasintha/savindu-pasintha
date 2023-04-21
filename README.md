@@ -1,9 +1,10 @@
 <h1 align="center"></h1>
 <h3 align="center">Hi, 👋 I'm Savindu Pasintha , 👀 Software Engineer</h3> 
 <p align="center"> 
-🌱
+<-- 🌱
   <a href="https://savindu-pasintha.vercel.app">Portfolio</a> 
  🌱
+ -->
  <a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank">Linkedin</a> 
  🌱
  <a href="https://savindupasingtha.medium.com">Medium</a> <br/> 
@@ -11,7 +12,7 @@
  🌱
  <a href="https://www.upwork.com/freelancers/~01a9342a0e7178f409?viewMode=1">Upwork </a> 
  🌱
- <a href="https://www.fiverr.com/savindupasingth?public_mode=true">Fiver</a> 
+  <a href="https://www.fiverr.com/savindupasingth?public_mode=true">Fiver</a>  
  -->
  🌱
 <a href="https://stackoverflow.com/users/15484152/savindu-pasintha">Stack Overflow</a>   
@@ -27,7 +28,7 @@
 🌱
 
   <!--🌱
-<a href="https://play.google.com/store/apps/dev?id=8686130184507586627">Google Play</a> 
+<!--<a href="https://play.google.com/store/apps/dev?id=8686130184507586627">Google Play</a>  -->
  <a href="+94768755787"> Call :  +94 76 875 5787 </a>
  🌱 -->
  </p>
