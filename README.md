@@ -26,9 +26,8 @@
 </p>
 <p align="center">
 🌱
-
-  <!--🌱
-<!--<a href="https://play.google.com/store/apps/dev?id=8686130184507586627">Google Play</a>  -->
+ <!-- 🌱
+<a href="https://play.google.com/store/apps/dev?id=8686130184507586627">Google Play</a>
  <a href="+94768755787"> Call :  +94 76 875 5787 </a>
  🌱 -->
  </p>
