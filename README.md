@@ -1,5 +1,5 @@
 <h1 align="center"></h1>
-<h3 align="center">Hi, 👋 I'm Savindu Pasintha , 👀 Software Engineer</h3> 
+<h3 align="center">Hi, 👋 I'm savindu pasintha. I try to solve realworld problems using my programming knowledge.</h3> 
 <p align="center"> 
  <!--🌱
   <a href="https://savindu-pasintha.vercel.app">Portfolio</a> 
