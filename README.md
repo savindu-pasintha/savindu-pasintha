@@ -83,9 +83,9 @@
   
 <table>
   <tr>
-      <th>My Frontend Projects</th>
-      <th>Backend Projects</th>
-      <th>Desktop Apps Projects</th>
+      <th></th>
+      <th></th>
+      <th></th>
   </tr>
    <tr>
       <td>
@@ -179,9 +179,9 @@
 
 <table>
     <tr>
-      <th>Mobile apps</th>
-      <th>Mobile apps</th>
-      <th>Mobile apps</th>
+      <th></th>
+      <th></th>
+      <th></th>
    </tr>
   
    <tr>
