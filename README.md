@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 <p align="left"> I am open to work.</p>
 <p align="left">Bachelor of Computer Science (BCS) (Software Engineering) at Cardiff Metropolitan University, Uk.</p>
-<p align="left">I most time focus for the frontend development, but also, I have experience in the backendment.</p>
+<p align="left">I most time focus for the frontend development, but also, I have experience in the backend development.</p>
 <h3 align="center"> Technical Skills & My Projects </h3> 
 
 <p align="center"> 
