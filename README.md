@@ -10,6 +10,7 @@
  <!--🌱
   <a href="https://savindu-pasintha.vercel.app">Portfolio</a> 
  🌱
+
  -->
  <a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank">Linkedin</a> 
  🌱
