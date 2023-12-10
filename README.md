@@ -234,9 +234,9 @@
 
 <table>
     <tr>
-        <th></th>
-        <th> Mobile Applications Development </th>
-        <th> </th>
+        <th>  </th>
+        <th> Urls </th>
+        <th> AI & Machine Learnings </th>
     </tr>
     <tr>
         <td>
@@ -288,7 +288,7 @@
 <table>
     <tr>
         <th></th>
-        <th></th>
+        <th> Fullstack Developments</th>
         <th></th>
     </tr>
     <tr>
@@ -450,7 +450,7 @@
 <table>
     <tr>
         <th></th>
-        <th></th>
+        <th> Mobile Applications </th>
         <th></th>
     </tr>
     <tr>
@@ -552,7 +552,7 @@
 <table>
     <tr>
         <th>
-            <p align="center">Computer Science and Software Application Development-Based Articles</p>
+            <p align="center">Software Application Development & Computer Science Based Articles</p>
         </th>
     </tr>
     <tr>
