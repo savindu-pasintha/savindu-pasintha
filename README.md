@@ -244,14 +244,9 @@
  </td>   
  </tr>
 </table>
-
-<script>
- var arr = []
-</script>
-
 <table>
     <tr>
-      <th><p align="center">Software Engineering Base Articles</p></th>
+      <th><p align="center">Computer Science and Software Application Development-Based Articles</p></th>
     </tr>
     <tr>
       <td> 
