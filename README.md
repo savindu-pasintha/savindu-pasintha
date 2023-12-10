@@ -221,8 +221,8 @@
 
 <table>
     <tr>
+        <th> Extensions & Middlewares </th>
         <th>  </th>
-        <th> Urls </th>
         <th> AI & Machine Learnings </th>
     </tr>
     <tr>
