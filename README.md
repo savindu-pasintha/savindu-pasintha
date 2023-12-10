@@ -7,7 +7,11 @@
     I hold a Bachelor of Computer Science (BCS) degree in Software Engineering from Cardiff Metropolitan University,
     United Kingdom.
 </p>
-<p align="left"></p>
+<p align="left">
+ <a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank">Linkedin</a>
+    🌱
+ <a href="https://savindupasingtha.medium.com">Medium</a> <br />
+</p>
 <h3 align="center"> Technical Skills & My Projects </h3>
 
 <p align="center">
@@ -16,9 +20,7 @@
  🌱
 
  -->
-    <a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank">Linkedin</a>
-    🌱
-    <a href="https://savindupasingtha.medium.com">Medium</a> <br />
+   
     <!--
  🌱
  <a href="https://www.upwork.com/freelancers/~01a9342a0e7178f409?viewMode=1">Upwork </a> 
@@ -208,22 +210,7 @@
             src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
             alt="selenium" width="40" height="40" /> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-    </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift"
-            width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-            height="40" /> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
-            height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a> <a href="https://vuejs.org/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-            alt="vuejs" width="40" height="40" /> </a> <a href="https://vuepress.vuejs.org/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg"
-            alt="vuepress" width="40" height="40" /> </a> <a href="https://vuetifyjs.com/en/" target="_blank"
-        rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40" /> </a>
+    </a> 
     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"
             alt="xamarin" width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html"
