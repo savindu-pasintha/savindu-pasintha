@@ -37,11 +37,12 @@
     <!--  🌱 <a href="https://matching.turing.com/developer-resume-preview/fb1d46bcae75689d55b41077fc0068b06de527a32698">Turing Portfolio</a>  -->
 </p>
 <p align="center">
-
-    <!-- 🌱 🌱
-<a href="https://play.google.com/store/apps/dev?id=8686130184507586627">Google Play</a>
+ <!--
+🌱 🌱
+ <a href="https://play.google.com/store/apps/dev?id=8686130184507586627">Google Play</a>
  <a href="+94768755787"> Call :  +94 76 875 5787 </a>
- 🌱 -->
+ 🌱 
+    -->
 </p>
 
 <!--
