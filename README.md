@@ -7,7 +7,7 @@
     I hold a Bachelor of Computer Science (BCS) degree in Software Engineering from Cardiff Metropolitan University,
     United Kingdom.
 </p>
-<p align="left">
+<p align="center">
  <a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank">Linkedin</a>
     🌱
  <a href="https://savindupasingtha.medium.com">Medium</a> <br />
