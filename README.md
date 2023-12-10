@@ -262,6 +262,7 @@ items.forEach(item => {
   // Append the link to the body or any other container element
   document.body.appendChild(link);
 });
+```
 <table>
     <tr>
       <th><p align="center">Software Engineering Base Articles</p></th>
