@@ -244,6 +244,24 @@
  </td>   
  </tr>
 </table>
+
+```javascript
+// Your JavaScript code here
+const items = [
+  { text: 'Item 1', url: 'https://example.com/item1' },
+  { text: 'Item 2', url: 'https://example.com/item2' },
+  { text: 'Item 3', url: 'https://example.com/item3' },
+];
+
+// Loop through the array and create <a> tags
+items.forEach(item => {
+  const link = document.createElement('a');
+  link.href = item.url;
+  link.textContent = item.text;
+
+  // Append the link to the body or any other container element
+  document.body.appendChild(link);
+});
 <table>
     <tr>
       <th><p align="center">Software Engineering Base Articles</p></th>
