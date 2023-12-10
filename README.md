@@ -376,7 +376,6 @@
                     Site Front End</a><br />
                 <a href="https://github.com/savindu-pasintha/golang-web-development-series/tree/main/gowebapp">43. Go -
                     Web Site Development Series</a><br />
-
             </p>
         </td>
         <td>
@@ -417,8 +416,6 @@
             <a href="#">20. Java EE/Maven - Car Garbage Management System</a><br />
             <a href="https://github.com/savindu-pasintha/.Net-web-API-CRUD">21. C#/.NET - Web API CRUD
                 Operation</a><br />
-
-
         </td>
         <td>
             <p align="left">
@@ -445,7 +442,6 @@
                 <a href="https://github.com/savindu-pasintha/java-All-In-one-savindu">10. Java - All Theories</a><br />
                 <a href="https://github.com/savindu-pasintha/java-mysql-netbeans">11. Java - City Mart Organic Foods
                     Management Desktop App</a><br />
-
             </p>
         </td>
     </tr>
@@ -457,7 +453,6 @@
         <th></th>
         <th></th>
     </tr>
-
     <tr>
         <td>
             <p align="left">
@@ -491,7 +486,6 @@
                     Android/Java - Calculator App Using Android Row/Column to Linear Layout </a><br />
                 <a href="https://github.com/savindu-pasintha/Android-APPS-JAVA/tree/master/LayoutDataBinding">14.
                     Android/Java - Layout Binding Sample App </a><br />
-
             </p>
         </td>
         <td>
@@ -519,7 +513,6 @@
             </a><br />
             <a href="https://github.com/savindu-pasintha/spinner">13. Android/Java - Android Spinner Load App </a><br />
             <a href="https://github.com/savindu-pasintha/projects">14. Android/Kotlin - Calculator App </a><br />
-
         </td>
         <td>
             <a href="https://github.com/savindu-pasintha/fluter/tree/main/adobe%20xported%20fluter%20codes">1. Flutter -
@@ -552,7 +545,6 @@
                 Clone</a><br />
             <a href="https://github.com/savindu-pasintha/React-Native-Air-Pollution-App">14. React Native - Air
                 Pollution App</a><br />
-
         </td>
     </tr>
 </table>
