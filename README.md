@@ -235,7 +235,7 @@
 <table>
     <tr>
         <th></th>
-        <th> </th>
+        <th> Mobile Applications Development </th>
         <th> </th>
     </tr>
     <tr>
