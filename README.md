@@ -245,7 +245,6 @@
                     Development</a><br />
                 <a href="https://github.com/savindu-pasintha/Thermal-Printing-Software-Solution-USB-Supported">2.
                     Thermal Printer SDK for Windows Operating System</a><br />
-
             </p>
         </td>
         <td>
@@ -266,8 +265,6 @@
                     Tool - React </a><br />
                 <a href="https://youclever.netlify.app">11. You Clever - React </a><br />
                 <a href="https://yourportfoliosa.netlify.app">12. Stephan Portfolio - React</a><br />
-
-
             </p>
         </td>
         <td>
@@ -284,7 +281,6 @@
                 Python Web Scraping and Data Save to Excel Sheet</a><br />
             <a href="https://github.com/savindu-pasintha/android-app-revers-engineerig-with-jadx">7. Android App Reverse
                 Engineering with JADX</a><br />
-
         </td>
     </tr>
 </table>
