@@ -642,6 +642,8 @@
             <a
                 href="https://medium.com/@savindupasingtha/what-is-the-easiest-way-to-e-mail-setup-in-your-react-app-d88e840fffda">44.
                 What Is the Easiest way to E-Mail Setup In Your React App?</a><br />
+             <a
+                href="https://medium.com/@savindupasingtha/are-you-aware-about-this-software-architecture-patterns-da983ab4ea41">45.Are You Aware About This Software Architecture Patterns?</a><br />
         </td>
     </tr>
 </table>
