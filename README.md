@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Savindu Pasintha's coding space on GitHub</h1>
-<p align="left">✨ npm i savindu-npm -> https://www.npmjs.com/package/savindu-npm?activeTab=readme</p>
+<p align="left">✨ npm i savindu-npm </p>
 <p align="left"> 
     I am a software engineer with 6 years of experience in both frontend and backend development, specializing in creating digital products and software solutions using the latest programming languages and technologies. I hold a Bachelor of Computer Science (BCS) degree in Software Engineering from Cardiff Metropolitan University, United Kingdom.
     <br />
