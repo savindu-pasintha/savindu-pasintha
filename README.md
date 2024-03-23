@@ -651,7 +651,7 @@
 
             <a
                 href="https://medium.com/@savindupasingtha/the-importance-of-shell-scripts-simplifying-tasks-and-automating-workflows-a9f81905f099">48.
-                The Importance of Shell Scripts: Simplifying Tasks and Automating Workflowsa><br />
+                The Importance of Shell Scripts: Simplifying Tasks and Automating Workflows</a><br />
         </td>
     </tr>
 </table>
