@@ -648,10 +648,8 @@
                 href="https://savindupasingtha.medium.com/full-documentation-to-start-ai-machine-learning-project-python-7f262907729f">46.Full Documentation to Start AI & Machine Learning project Python?</a><br />
             <a
                 href="https://medium.com/@savindupasingtha/choosing-the-best-programming-language-for-ai-and-machine-learning-a-comprehensive-guide-6082c1ce63f5">47.FChoosing the Best Programming Language for AI and Machine Learning: A Comprehensive Guide</a><br />
-
             <a
-                href="https://medium.com/@savindupasingtha/the-importance-of-shell-scripts-simplifying-tasks-and-automating-workflows-a9f81905f099">48.
-                The Importance of Shell Scripts: Simplifying Tasks and Automating Workflows</a><br />
+                href="https://medium.com/@savindupasingtha/the-importance-of-shell-scripts-simplifying-tasks-and-automating-workflows-a9f81905f099">48. The Importance of Shell Scripts: Simplifying Tasks and Automating Workflows</a><br />
         </td>
     </tr>
 </table>
