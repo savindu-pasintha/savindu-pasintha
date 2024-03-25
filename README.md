@@ -281,7 +281,7 @@
                 <a href="https://github.com/savindu-pasintha/Reactjs-Utilities">1. Reactjs Utilities</a><br />
                 <a href="https://system.veepmeep.com/">2. React - Veep Meep</a><br />
                 <a href="https://veep-meep-dating-app.vercel.app">3. React - Veep Meep 2</a><br />
-                <a href="#">4. Nextjs - Ebets Web Application (Online Money Bets) - Collaborate with the VenturePlan LLC
+                <a href="https://github.com/savindu-pasintha/nextjs-Sonix-blockgaming-admin">4. Nextjs - Ebets Web Application (Online Money Bets) - Collaborate with the VenturePlan LLC
                     (Vic Cheng) Development Startup (USA)</a><br />
                 <a href="https://biovatika-frontend.web.app/">5. React - Biovatica Ecommerce Web Application -
                     Collaborate with the Relish Development Startup (India)</a><br />
