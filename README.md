@@ -5,11 +5,6 @@
     <br />
 </p>
 
-<audio controls>
-  <source src="https://drive.google.com/file/d/1MOI_kxc7y_11rSUMcFgt-sAL4Xh9ymuq/view?usp=drive_link" type="audio/mpeg">
-    Your
-</audio>
-
 <p align="center">
  <a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank">Linkedin</a>
     🌱
