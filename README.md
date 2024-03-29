@@ -4,6 +4,11 @@
     I am a software engineer with 6 years of experience in both frontend and backend development, specializing in creating digital products and software solutions using the latest programming languages and technologies. I hold a Bachelor of Computer Science (BCS) degree in Software Engineering from Cardiff Metropolitan University, United Kingdom.
     <br />
 </p>
+
+<audio controls>
+  <source src="https://www.example.com/audio-file.mp3" type="audio/mpeg">
+</audio>
+
 <p align="center">
  <a href="https://www.linkedin.com/in/savindu-pasintha/" target="blank">Linkedin</a>
     🌱
