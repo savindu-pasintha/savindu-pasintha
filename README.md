@@ -739,3 +739,24 @@
 stats](https://github-readme-stats.vercel.app/api?username=savindu-pasintha&show_icons=true&theme=radical)
 <br />
 
+# SSH Key generate in Mac os AND ACCESS ON VS CODE OR TERMINAL
+
+### To create pub/pvt keys
+`ssh-keygen -t rsa -f ~/.ssh/private-key-file-name -C username`
+
+### Then add this ~/.ssh/private-key-file-name.pub file inside PUBLIC key content to GCP or Remote server ssh Item
+
+### To Connect Remote Server
+`ssh -i ~/.ssh/private-key-file-name username@IP-Address`
+
+## If plan to GCP or Remote server , connect with VS code use Remote-SSH extention and SSH-HOST connection config 
+`
+~/.ssh/config
+
+Host ANY-NAME
+    HostName REMOTE-CONNECTION-OR-SERVER-IP
+    User username
+    IdentityFile ~/.ssh/~/.ssh/private-key-file-name
+
+`
+
