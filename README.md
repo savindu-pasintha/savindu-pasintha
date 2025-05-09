@@ -320,7 +320,7 @@
                     WebRTC/Janus Audio, Video, Whiteboard Sharing Cloud LearnX Web Application</a><br />
                 <a href="https://github.com/savindu-pasintha/new-portfolio">22. React - Savindu Pasintha (My)
                     Portfolio</a><br />
-                <a href="https://github.com/savindu-pasintha/netflix">23. React - Netflix Clone</a><br />
+                <a href="https://netflix-ten-plum.vercel.app/">23. React - Netflix Clone</a><br />
                 <a href="https://github.com/savindu-pasintha/LIVE-uber-eats-clone-youtube">24. React - YouTube
                     Clone</a><br />
                 <a href="https://github.com/savindu-pasintha/Cheap-Resto-">25. React - Cheap Resto Restaurant Searching
